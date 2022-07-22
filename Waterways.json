@@ -1,0 +1,3279 @@
+[{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a65a"
+  },
+  "type": "Feature",
+  "id": 0,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.228735566139237,
+      48.83843855322986
+    ]
+  },
+  "properties": {
+    "FID": 0,
+    "mvt_id": 3,
+    "rank": 1,
+    "name_de": "Burg Hofen",
+    "name_int": "Burg Hofen",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a65b"
+  },
+  "type": "Feature",
+  "id": 1,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.274724721908584,
+      48.79567672896471
+    ]
+  },
+  "properties": {
+    "FID": 1,
+    "mvt_id": 4,
+    "rank": 1,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a65c"
+  },
+  "type": "Feature",
+  "id": 2,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.110927581787097,
+      48.779825176422484
+    ]
+  },
+  "properties": {
+    "FID": 2,
+    "mvt_id": 2,
+    "rank": 1,
+    "name_de": "Sommerhalde",
+    "name_int": "Sommerhalde",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a65d"
+  },
+  "type": "Feature",
+  "id": 3,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.247891902923602,
+      48.697111011246506
+    ]
+  },
+  "properties": {
+    "FID": 3,
+    "mvt_id": 6,
+    "rank": 1,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a65e"
+  },
+  "type": "Feature",
+  "id": 4,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.226155281066895,
+      48.777633486461106
+    ]
+  },
+  "properties": {
+    "FID": 4,
+    "mvt_id": 14,
+    "rank": 1,
+    "name_de": "Staibhöhe",
+    "name_int": "Staibhöhe",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a65f"
+  },
+  "type": "Feature",
+  "id": 5,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.233300685882586,
+      48.69571240423873
+    ]
+  },
+  "properties": {
+    "FID": 5,
+    "mvt_id": 8,
+    "rank": 1,
+    "name_de": "Plane spotting point",
+    "name_int": "Plane spotting point",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a660"
+  },
+  "type": "Feature",
+  "id": 6,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.31112229824066,
+      48.78251870300541
+    ]
+  },
+  "properties": {
+    "FID": 6,
+    "mvt_id": 10,
+    "rank": 1,
+    "name_de": "Kernenturm",
+    "name_int": "Kernenturm",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a661"
+  },
+  "type": "Feature",
+  "id": 7,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.064214229583728,
+      48.77750975917427
+    ]
+  },
+  "properties": {
+    "FID": 7,
+    "mvt_id": 14,
+    "rank": 1,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a662"
+  },
+  "type": "Feature",
+  "id": 8,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.296241402626036,
+      48.770587615505434
+    ]
+  },
+  "properties": {
+    "FID": 8,
+    "mvt_id": 10,
+    "rank": 1,
+    "name_de": "Katharinenlindenturm",
+    "name_int": "Katharinenlindenturm",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a663"
+  },
+  "type": "Feature",
+  "id": 9,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.248927235603349,
+      48.85148307522342
+    ]
+  },
+  "properties": {
+    "FID": 9,
+    "mvt_id": 19,
+    "rank": 2,
+    "name_de": "Landungsbrücke Fellbach",
+    "name_int": "Landungsbrücke Fellbach",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a664"
+  },
+  "type": "Feature",
+  "id": 10,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.206709265708923,
+      48.83383420846051
+    ]
+  },
+  "properties": {
+    "FID": 10,
+    "mvt_id": 15,
+    "rank": 1,
+    "name_de": "Aussichtspunkt Freienstein-Eulenbühl",
+    "name_int": "Aussichtspunkt Freienstein-Eulenbühl",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a665"
+  },
+  "type": "Feature",
+  "id": 11,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.284273386001601,
+      48.77945047492053
+    ]
+  },
+  "properties": {
+    "FID": 11,
+    "mvt_id": 20,
+    "rank": 1,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a666"
+  },
+  "type": "Feature",
+  "id": 12,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.212009310722351,
+      48.706900172341506
+    ]
+  },
+  "properties": {
+    "FID": 12,
+    "mvt_id": 21,
+    "rank": 2,
+    "name_de": "Monopteros",
+    "name_int": "Monopteros",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a667"
+  },
+  "type": "Feature",
+  "id": 13,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.097500443458543,
+      48.83110459263642
+    ]
+  },
+  "properties": {
+    "FID": 13,
+    "mvt_id": 23,
+    "rank": 2,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a668"
+  },
+  "type": "Feature",
+  "id": 14,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.194768071174638,
+      48.818916615341685
+    ]
+  },
+  "properties": {
+    "FID": 14,
+    "mvt_id": 29,
+    "rank": 2,
+    "name_de": "Burgholzhof-Turm",
+    "name_int": "Burgholzhof-Turm",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a669"
+  },
+  "type": "Feature",
+  "id": 15,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.03957545757294,
+      48.79728811139914
+    ]
+  },
+  "properties": {
+    "FID": 15,
+    "mvt_id": 45,
+    "rank": 3,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a66a"
+  },
+  "type": "Feature",
+  "id": 16,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.274451136589066,
+      48.796054843087255
+    ]
+  },
+  "properties": {
+    "FID": 16,
+    "mvt_id": 29,
+    "rank": 2,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a66b"
+  },
+  "type": "Feature",
+  "id": 17,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.241873025894181,
+      48.76532289494062
+    ]
+  },
+  "properties": {
+    "FID": 17,
+    "mvt_id": 25,
+    "rank": 2,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a66c"
+  },
+  "type": "Feature",
+  "id": 18,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2135488986969,
+      48.71045778625211
+    ]
+  },
+  "properties": {
+    "FID": 18,
+    "mvt_id": 27,
+    "rank": 2,
+    "name_de": "Plieninger Aussicht",
+    "name_int": "Plieninger Aussicht",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a66d"
+  },
+  "type": "Feature",
+  "id": 19,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.065866470336902,
+      48.79033688786145
+    ]
+  },
+  "properties": {
+    "FID": 19,
+    "mvt_id": 27,
+    "rank": 2,
+    "name_de": "Oberer Schlossberg",
+    "name_int": "Oberer Schlossberg",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a66e"
+  },
+  "type": "Feature",
+  "id": 20,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.306905865669247,
+      48.69234850675985
+    ]
+  },
+  "properties": {
+    "FID": 20,
+    "mvt_id": 22,
+    "rank": 2,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a66f"
+  },
+  "type": "Feature",
+  "id": 21,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.212272167205809,
+      48.7757810803292
+    ]
+  },
+  "properties": {
+    "FID": 21,
+    "mvt_id": 43,
+    "rank": 3,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a670"
+  },
+  "type": "Feature",
+  "id": 22,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.19975697994234,
+      48.722098806061844
+    ]
+  },
+  "properties": {
+    "FID": 22,
+    "mvt_id": 33,
+    "rank": 2,
+    "name_de": "Birkacher Feld",
+    "name_int": "Birkacher Feld",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a671"
+  },
+  "type": "Feature",
+  "id": 23,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.281660914421096,
+      48.79178587511967
+    ]
+  },
+  "properties": {
+    "FID": 23,
+    "mvt_id": 45,
+    "rank": 3,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a672"
+  },
+  "type": "Feature",
+  "id": 24,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.237860441207904,
+      48.84268589784095
+    ]
+  },
+  "properties": {
+    "FID": 24,
+    "mvt_id": 59,
+    "rank": 4,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a673"
+  },
+  "type": "Feature",
+  "id": 25,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.041211605072027,
+      48.77608157070145
+    ]
+  },
+  "properties": {
+    "FID": 25,
+    "mvt_id": 27,
+    "rank": 3,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a674"
+  },
+  "type": "Feature",
+  "id": 26,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.199960827827471,
+      48.76710850675318
+    ]
+  },
+  "properties": {
+    "FID": 26,
+    "mvt_id": 46,
+    "rank": 3,
+    "name_de": "Geroksruhe",
+    "name_int": "Geroksruhe",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a675"
+  },
+  "type": "Feature",
+  "id": 27,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.242720603942887,
+      48.84605386019998
+    ]
+  },
+  "properties": {
+    "FID": 27,
+    "mvt_id": 60,
+    "rank": 4,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a676"
+  },
+  "type": "Feature",
+  "id": 28,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17362153530121,
+      48.78763671216165
+    ]
+  },
+  "properties": {
+    "FID": 28,
+    "mvt_id": 54,
+    "rank": 3,
+    "name_de": "Kriegsbergturm",
+    "name_int": "Kriegsbergturm",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a677"
+  },
+  "type": "Feature",
+  "id": 29,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.265771508216856,
+      48.77298820141459
+    ]
+  },
+  "properties": {
+    "FID": 29,
+    "mvt_id": 52,
+    "rank": 3,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a678"
+  },
+  "type": "Feature",
+  "id": 30,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.158622622489915,
+      48.80114673789004
+    ]
+  },
+  "properties": {
+    "FID": 30,
+    "mvt_id": 68,
+    "rank": 4,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a679"
+  },
+  "type": "Feature",
+  "id": 31,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.253765940666197,
+      48.850914764955924
+    ]
+  },
+  "properties": {
+    "FID": 31,
+    "mvt_id": 57,
+    "rank": 6,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a67a"
+  },
+  "type": "Feature",
+  "id": 32,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.161594510078416,
+      48.793471595439584
+    ]
+  },
+  "properties": {
+    "FID": 32,
+    "mvt_id": 71,
+    "rank": 4,
+    "name_de": "Gähkopf",
+    "name_int": "Gähkopf",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a67b"
+  },
+  "type": "Feature",
+  "id": 33,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.172800779342653,
+      48.75555924923819
+    ]
+  },
+  "properties": {
+    "FID": 33,
+    "mvt_id": 69,
+    "rank": 4,
+    "name_de": "Haigst-Aussichtsplattform des Verschönerungsvereins Stuttgart e.V.",
+    "name_int": "Haigst-Aussichtsplattform des Verschönerungsvereins Stuttgart e.V.",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a67c"
+  },
+  "type": "Feature",
+  "id": 34,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.131795167922975,
+      48.76534057457669
+    ]
+  },
+  "properties": {
+    "FID": 34,
+    "mvt_id": 51,
+    "rank": 3,
+    "name_de": "Kanzel",
+    "name_int": "Kanzel",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a67d"
+  },
+  "type": "Feature",
+  "id": 35,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.277975559234633,
+      48.79591702612033
+    ]
+  },
+  "properties": {
+    "FID": 35,
+    "mvt_id": 74,
+    "rank": 5,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a67e"
+  },
+  "type": "Feature",
+  "id": 36,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.193813204765336,
+      48.76766362461667
+    ]
+  },
+  "properties": {
+    "FID": 36,
+    "mvt_id": 63,
+    "rank": 4,
+    "name_de": "Hangbrücke Pischekstraße",
+    "name_int": "Hangbrücke Pischekstraße",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a67f"
+  },
+  "type": "Feature",
+  "id": 37,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.150860309600814,
+      48.745447048737795
+    ]
+  },
+  "properties": {
+    "FID": 37,
+    "mvt_id": 98,
+    "rank": 5,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a680"
+  },
+  "type": "Feature",
+  "id": 38,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.075586795806888,
+      48.79383912442476
+    ]
+  },
+  "properties": {
+    "FID": 38,
+    "mvt_id": 61,
+    "rank": 4,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a681"
+  },
+  "type": "Feature",
+  "id": 39,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.145839214324937,
+      48.76426210538606
+    ]
+  },
+  "properties": {
+    "FID": 39,
+    "mvt_id": 91,
+    "rank": 4,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a682"
+  },
+  "type": "Feature",
+  "id": 40,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.285475015640273,
+      48.785113118181776
+    ]
+  },
+  "properties": {
+    "FID": 40,
+    "mvt_id": 91,
+    "rank": 7,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a683"
+  },
+  "type": "Feature",
+  "id": 41,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17089641094208,
+      48.75691021809187
+    ]
+  },
+  "properties": {
+    "FID": 41,
+    "mvt_id": 92,
+    "rank": 5,
+    "name_de": "Wielandshöhe",
+    "name_int": "Wielandshöhe",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a684"
+  },
+  "type": "Feature",
+  "id": 42,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.129998087883,
+      48.732990576752044
+    ]
+  },
+  "properties": {
+    "FID": 42,
+    "mvt_id": 75,
+    "rank": 5,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a685"
+  },
+  "type": "Feature",
+  "id": 43,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.219675064086914,
+      48.75766349123102
+    ]
+  },
+  "properties": {
+    "FID": 43,
+    "mvt_id": 66,
+    "rank": 5,
+    "name_de": "ehemalige Burg Rohreck",
+    "name_int": "ehemalige Burg Rohreck",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a686"
+  },
+  "type": "Feature",
+  "id": 44,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13147866725922,
+      48.76537593383018
+    ]
+  },
+  "properties": {
+    "FID": 44,
+    "mvt_id": 67,
+    "rank": 4,
+    "name_de": "Birkenkopf",
+    "name_int": "Birkenkopf",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a687"
+  },
+  "type": "Feature",
+  "id": 45,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.171229004859926,
+      48.80525238625495
+    ]
+  },
+  "properties": {
+    "FID": 45,
+    "mvt_id": 111,
+    "rank": 6,
+    "name_de": "Killesbergturm",
+    "name_int": "Killesbergturm",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a688"
+  },
+  "type": "Feature",
+  "id": 46,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.224422574043274,
+      48.808824238907384
+    ]
+  },
+  "properties": {
+    "FID": 46,
+    "mvt_id": 78,
+    "rank": 5,
+    "name_de": "Oberer Kurpark",
+    "name_int": "Oberer Kurpark",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a689"
+  },
+  "type": "Feature",
+  "id": 47,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.229840636253373,
+      48.81989501212405
+    ]
+  },
+  "properties": {
+    "FID": 47,
+    "mvt_id": 87,
+    "rank": 5,
+    "name_de": "Blick auf Münster",
+    "name_int": "Blick auf Münster",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a68a"
+  },
+  "type": "Feature",
+  "id": 48,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.175944328308107,
+      48.799167992153535
+    ]
+  },
+  "properties": {
+    "FID": 48,
+    "mvt_id": 114,
+    "rank": 6,
+    "name_de": "Hermann-Lenz-Höhe",
+    "name_int": "Hermann-Lenz-Höhe",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a68b"
+  },
+  "type": "Feature",
+  "id": 49,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.277321100235,
+      48.76325787062849
+    ]
+  },
+  "properties": {
+    "FID": 49,
+    "mvt_id": 132,
+    "rank": 11,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a68c"
+  },
+  "type": "Feature",
+  "id": 50,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.279751181602494,
+      48.79580747903038
+    ]
+  },
+  "properties": {
+    "FID": 50,
+    "mvt_id": 99,
+    "rank": 8,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a68d"
+  },
+  "type": "Feature",
+  "id": 51,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.257220625877379,
+      48.7459634958349
+    ]
+  },
+  "properties": {
+    "FID": 51,
+    "mvt_id": 105,
+    "rank": 8,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a68e"
+  },
+  "type": "Feature",
+  "id": 52,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.066998362541186,
+      48.828611437119186
+    ]
+  },
+  "properties": {
+    "FID": 52,
+    "mvt_id": 69,
+    "rank": 6,
+    "name_de": "Glemsbalkon",
+    "name_int": "Glemsbalkon",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a68f"
+  },
+  "type": "Feature",
+  "id": 53,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.19122219085695,
+      48.771623523061216
+    ]
+  },
+  "properties": {
+    "FID": 53,
+    "mvt_id": 94,
+    "rank": 6,
+    "name_de": "Wieland-Wagner-Höhe",
+    "name_int": "Wieland-Wagner-Höhe",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a690"
+  },
+  "type": "Feature",
+  "id": 54,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.144165515899644,
+      48.76216521211436
+    ]
+  },
+  "properties": {
+    "FID": 54,
+    "mvt_id": 101,
+    "rank": 6,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a691"
+  },
+  "type": "Feature",
+  "id": 55,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.277321100235,
+      48.76325787062849
+    ]
+  },
+  "properties": {
+    "FID": 55,
+    "mvt_id": 140,
+    "rank": 12,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a692"
+  },
+  "type": "Feature",
+  "id": 56,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.170472621917725,
+      48.8053654458264
+    ]
+  },
+  "properties": {
+    "FID": 56,
+    "mvt_id": 134,
+    "rank": 7,
+    "name_de": "Blick über das Tal der Rosen",
+    "name_int": "Blick über das Tal der Rosen",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a693"
+  },
+  "type": "Feature",
+  "id": 57,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.185938239097613,
+      48.80759125423347
+    ]
+  },
+  "properties": {
+    "FID": 57,
+    "mvt_id": 139,
+    "rank": 7,
+    "name_de": "Bastion Leibfried",
+    "name_int": "Bastion Leibfried",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a694"
+  },
+  "type": "Feature",
+  "id": 58,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.211467504501343,
+      48.79411830329682
+    ]
+  },
+  "properties": {
+    "FID": 58,
+    "mvt_id": 112,
+    "rank": 7,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a695"
+  },
+  "type": "Feature",
+  "id": 59,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.228172302246094,
+      48.77300234296501
+    ]
+  },
+  "properties": {
+    "FID": 59,
+    "mvt_id": 141,
+    "rank": 10,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a696"
+  },
+  "type": "Feature",
+  "id": 60,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.165027737617494,
+      48.767359548075724
+    ]
+  },
+  "properties": {
+    "FID": 60,
+    "mvt_id": 155,
+    "rank": 7,
+    "name_de": "Aussichtsplatte Humboldtstraße",
+    "name_int": "Aussichtsplatte Humboldtstraße",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a697"
+  },
+  "type": "Feature",
+  "id": 61,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.214884638786316,
+      48.75066079834641
+    ]
+  },
+  "properties": {
+    "FID": 61,
+    "mvt_id": 96,
+    "rank": 8,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a698"
+  },
+  "type": "Feature",
+  "id": 62,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.171556234359743,
+      48.80519232325395
+    ]
+  },
+  "properties": {
+    "FID": 62,
+    "mvt_id": 150,
+    "rank": 8,
+    "name_de": "Killesberg",
+    "name_int": "Killesberg",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a699"
+  },
+  "type": "Feature",
+  "id": 63,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.084556102752689,
+      48.7870712119385
+    ]
+  },
+  "properties": {
+    "FID": 63,
+    "mvt_id": 114,
+    "rank": 17,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a69a"
+  },
+  "type": "Feature",
+  "id": 64,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.249533414840714,
+      48.75957314716313
+    ]
+  },
+  "properties": {
+    "FID": 64,
+    "mvt_id": 141,
+    "rank": 12,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a69b"
+  },
+  "type": "Feature",
+  "id": 65,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.181990027427675,
+      48.76252943426032
+    ]
+  },
+  "properties": {
+    "FID": 65,
+    "mvt_id": 180,
+    "rank": 10,
+    "name_de": "Schillereiche",
+    "name_int": "Schillereiche",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a69c"
+  },
+  "type": "Feature",
+  "id": 66,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.142550826072679,
+      48.78020694488731
+    ]
+  },
+  "properties": {
+    "FID": 66,
+    "mvt_id": 148,
+    "rank": 9,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a69d"
+  },
+  "type": "Feature",
+  "id": 67,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.28485274314882,
+      48.79786409738693
+    ]
+  },
+  "properties": {
+    "FID": 67,
+    "mvt_id": 137,
+    "rank": 13,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a69e"
+  },
+  "type": "Feature",
+  "id": 68,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.181641340255737,
+      48.7616241782257
+    ]
+  },
+  "properties": {
+    "FID": 68,
+    "mvt_id": 196,
+    "rank": 11,
+    "name_de": "Aussichtsanlage Am Altenberg",
+    "name_int": "Aussichtsanlage Am Altenberg",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a69f"
+  },
+  "type": "Feature",
+  "id": 69,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.150291681289657,
+      48.781599668186324
+    ]
+  },
+  "properties": {
+    "FID": 69,
+    "mvt_id": 158,
+    "rank": 9,
+    "name_de": "Aussichtsanlage Zeppelinstraße",
+    "name_int": "Aussichtsanlage Zeppelinstraße",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a0"
+  },
+  "type": "Feature",
+  "id": 70,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.171282649040222,
+      48.79804784612653
+    ]
+  },
+  "properties": {
+    "FID": 70,
+    "mvt_id": 187,
+    "rank": 10,
+    "name_de": "Aussichtsplatform Rote Wand",
+    "name_int": "Aussichtsplatform Rote Wand",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a1"
+  },
+  "type": "Feature",
+  "id": 71,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.281467795372023,
+      48.7954540996904
+    ]
+  },
+  "properties": {
+    "FID": 71,
+    "mvt_id": 142,
+    "rank": 14,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a2"
+  },
+  "type": "Feature",
+  "id": 72,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.205963611602801,
+      48.82817706447453
+    ]
+  },
+  "properties": {
+    "FID": 72,
+    "mvt_id": 172,
+    "rank": 10,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a3"
+  },
+  "type": "Feature",
+  "id": 73,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.190186858177203,
+      48.777909220460394
+    ]
+  },
+  "properties": {
+    "FID": 73,
+    "mvt_id": 147,
+    "rank": 9,
+    "name_de": "Eugensplatz",
+    "name_int": "Eugensplatz",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a4"
+  },
+  "type": "Feature",
+  "id": 74,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.14525449275969,
+      48.767500979254045
+    ]
+  },
+  "properties": {
+    "FID": 74,
+    "mvt_id": 206,
+    "rank": 10,
+    "name_de": "Wilhelm-Charlotten-Blick",
+    "name_int": "Wilhelm-Charlotten-Blick",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a5"
+  },
+  "type": "Feature",
+  "id": 75,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16912615299225,
+      48.75291379139308
+    ]
+  },
+  "properties": {
+    "FID": 75,
+    "mvt_id": 225,
+    "rank": 13,
+    "name_de": "Schimmelhüttenweg-Aussicht",
+    "name_int": "Schimmelhüttenweg-Aussicht",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a6"
+  },
+  "type": "Feature",
+  "id": 76,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.283404350280776,
+      48.79562372208426
+    ]
+  },
+  "properties": {
+    "FID": 76,
+    "mvt_id": 158,
+    "rank": 17,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a7"
+  },
+  "type": "Feature",
+  "id": 77,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.214755892753601,
+      48.7090843292964
+    ]
+  },
+  "properties": {
+    "FID": 77,
+    "mvt_id": 209,
+    "rank": 15,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a8"
+  },
+  "type": "Feature",
+  "id": 78,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182091951370241,
+      48.7648490783752
+    ]
+  },
+  "properties": {
+    "FID": 78,
+    "mvt_id": 231,
+    "rank": 11,
+    "name_de": "Weißenburg",
+    "name_int": "Weißenburg",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6a9"
+  },
+  "type": "Feature",
+  "id": 79,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.27854418754579,
+      48.79592055989344
+    ]
+  },
+  "properties": {
+    "FID": 79,
+    "mvt_id": 167,
+    "rank": 18,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6aa"
+  },
+  "type": "Feature",
+  "id": 80,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.194462299346942,
+      48.78131335005468
+    ]
+  },
+  "properties": {
+    "FID": 80,
+    "mvt_id": 252,
+    "rank": 12,
+    "name_de": "Aussichtsplattform Uhlandshöhe",
+    "name_int": "Aussichtsplattform Uhlandshöhe",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ab"
+  },
+  "type": "Feature",
+  "id": 81,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17961895465851,
+      48.76225715193439
+    ]
+  },
+  "properties": {
+    "FID": 81,
+    "mvt_id": 245,
+    "rank": 14,
+    "name_de": "Aussichtsanlage Kaiserlinde",
+    "name_int": "Aussichtsanlage Kaiserlinde",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ac"
+  },
+  "type": "Feature",
+  "id": 82,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.259028434753416,
+      48.753617609954844
+    ]
+  },
+  "properties": {
+    "FID": 82,
+    "mvt_id": 135,
+    "rank": 10,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ad"
+  },
+  "type": "Feature",
+  "id": 83,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182783961296083,
+      48.78337409721584
+    ]
+  },
+  "properties": {
+    "FID": 83,
+    "mvt_id": 224,
+    "rank": 11,
+    "name_de": "Bahnhofsturm",
+    "name_int": "Bahnhofsturm",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ae"
+  },
+  "type": "Feature",
+  "id": 84,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.269124269485472,
+      48.76984867862588
+    ]
+  },
+  "properties": {
+    "FID": 84,
+    "mvt_id": 209,
+    "rank": 19,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6af"
+  },
+  "type": "Feature",
+  "id": 85,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2167729139328,
+      48.711629442837086
+    ]
+  },
+  "properties": {
+    "FID": 85,
+    "mvt_id": 224,
+    "rank": 16,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b0"
+  },
+  "type": "Feature",
+  "id": 86,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.280394911766066,
+      48.79549650534263
+    ]
+  },
+  "properties": {
+    "FID": 86,
+    "mvt_id": 185,
+    "rank": 21,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b1"
+  },
+  "type": "Feature",
+  "id": 87,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.177719950675966,
+      48.75817273991151
+    ]
+  },
+  "properties": {
+    "FID": 87,
+    "mvt_id": 267,
+    "rank": 16,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b2"
+  },
+  "type": "Feature",
+  "id": 88,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.126720428466799,
+      48.73954644083485
+    ]
+  },
+  "properties": {
+    "FID": 88,
+    "mvt_id": 222,
+    "rank": 23,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b3"
+  },
+  "type": "Feature",
+  "id": 89,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.227952361106873,
+      48.84302835299517
+    ]
+  },
+  "properties": {
+    "FID": 89,
+    "mvt_id": 172,
+    "rank": 13,
+    "name_de": "Engelburg",
+    "name_int": "Engelburg",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b4"
+  },
+  "type": "Feature",
+  "id": 90,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.161369204521165,
+      48.79363769060286
+    ]
+  },
+  "properties": {
+    "FID": 90,
+    "mvt_id": 258,
+    "rank": 24,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b5"
+  },
+  "type": "Feature",
+  "id": 91,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.194049239158648,
+      48.78081140568488
+    ]
+  },
+  "properties": {
+    "FID": 91,
+    "mvt_id": 297,
+    "rank": 14,
+    "name_de": "Uhlandshöhe",
+    "name_int": "Uhlandshöhe",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b6"
+  },
+  "type": "Feature",
+  "id": 92,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.179597496986391,
+      48.75818334920412
+    ]
+  },
+  "properties": {
+    "FID": 92,
+    "mvt_id": 279,
+    "rank": 17,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b7"
+  },
+  "type": "Feature",
+  "id": 93,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.196962118148821,
+      48.78210867416527
+    ]
+  },
+  "properties": {
+    "FID": 93,
+    "mvt_id": 316,
+    "rank": 15,
+    "name_de": "Aussichtsplattform Stadtwasserwerk",
+    "name_int": "Aussichtsplattform Stadtwasserwerk",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b8"
+  },
+  "type": "Feature",
+  "id": 94,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.179254174232485,
+      48.758338951904996
+    ]
+  },
+  "properties": {
+    "FID": 94,
+    "mvt_id": 300,
+    "rank": 19,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6b9"
+  },
+  "type": "Feature",
+  "id": 95,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.19400632381441,
+      48.780797266334154
+    ]
+  },
+  "properties": {
+    "FID": 95,
+    "mvt_id": 342,
+    "rank": 16,
+    "name_de": "Aussichtsturm Uhlandshöhe",
+    "name_int": "Aussichtsturm Uhlandshöhe",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ba"
+  },
+  "type": "Feature",
+  "id": 96,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.253615736961365,
+      48.75002414150163
+    ]
+  },
+  "properties": {
+    "FID": 96,
+    "mvt_id": 188,
+    "rank": 15,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6bb"
+  },
+  "type": "Feature",
+  "id": 97,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.173262119293213,
+      48.786678892414585
+    ]
+  },
+  "properties": {
+    "FID": 97,
+    "mvt_id": 307,
+    "rank": 15,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6bc"
+  },
+  "type": "Feature",
+  "id": 98,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.213387966156006,
+      48.83907761978511
+    ]
+  },
+  "properties": {
+    "FID": 98,
+    "mvt_id": 222,
+    "rank": 19,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6bd"
+  },
+  "type": "Feature",
+  "id": 99,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.202803969383258,
+      48.830949215464074
+    ]
+  },
+  "properties": {
+    "FID": 99,
+    "mvt_id": 299,
+    "rank": 19,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6be"
+  },
+  "type": "Feature",
+  "id": 100,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.178535342216492,
+      48.75859357346675
+    ]
+  },
+  "properties": {
+    "FID": 100,
+    "mvt_id": 354,
+    "rank": 24,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6bf"
+  },
+  "type": "Feature",
+  "id": 101,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.172355532646181,
+      48.80616038874146
+    ]
+  },
+  "properties": {
+    "FID": 101,
+    "mvt_id": 374,
+    "rank": 24,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c0"
+  },
+  "type": "Feature",
+  "id": 102,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.174233078956606,
+      48.78783463573419
+    ]
+  },
+  "properties": {
+    "FID": 102,
+    "mvt_id": 367,
+    "rank": 19,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c1"
+  },
+  "type": "Feature",
+  "id": 103,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.314330220222471,
+      48.83175081525194
+    ]
+  },
+  "properties": {
+    "FID": 103,
+    "mvt_id": 250,
+    "rank": 25,
+    "name_de": "Hochwachtturm",
+    "name_int": "Hochwachtturm",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c2"
+  },
+  "type": "Feature",
+  "id": 104,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.150103926658616,
+      48.78514139444758
+    ]
+  },
+  "properties": {
+    "FID": 104,
+    "mvt_id": 357,
+    "rank": 25,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c3"
+  },
+  "type": "Feature",
+  "id": 105,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.177703857421875,
+      48.77652700017928
+    ]
+  },
+  "properties": {
+    "FID": 105,
+    "mvt_id": 455,
+    "rank": 24,
+    "name_de": "Westturm",
+    "name_int": "Westturm",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c4"
+  },
+  "type": "Feature",
+  "id": 106,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.121903181076053,
+      48.73300472956507
+    ]
+  },
+  "properties": {
+    "FID": 106,
+    "mvt_id": 379,
+    "rank": 27,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c5"
+  },
+  "type": "Feature",
+  "id": 107,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17587459087372,
+      48.805867144599645
+    ]
+  },
+  "properties": {
+    "FID": 107,
+    "mvt_id": 447,
+    "rank": 29,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c6"
+  },
+  "type": "Feature",
+  "id": 108,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.230071306228654,
+      48.817394234358275
+    ]
+  },
+  "properties": {
+    "FID": 108,
+    "mvt_id": 377,
+    "rank": 27,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c7"
+  },
+  "type": "Feature",
+  "id": 109,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17207658290863,
+      48.78643855101103
+    ]
+  },
+  "properties": {
+    "FID": 109,
+    "mvt_id": 505,
+    "rank": 27,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c8"
+  },
+  "type": "Feature",
+  "id": 110,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1758531332016,
+      48.805711689178395
+    ]
+  },
+  "properties": {
+    "FID": 110,
+    "mvt_id": 518,
+    "rank": 35,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6c9"
+  },
+  "type": "Feature",
+  "id": 111,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.169265627861025,
+      48.749903883191834
+    ]
+  },
+  "properties": {
+    "FID": 111,
+    "mvt_id": 529,
+    "rank": 47,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ca"
+  },
+  "type": "Feature",
+  "id": 112,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.169753789901735,
+      48.789163530932406
+    ]
+  },
+  "properties": {
+    "FID": 112,
+    "mvt_id": 530,
+    "rank": 28,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6cb"
+  },
+  "type": "Feature",
+  "id": 113,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.154840707778916,
+      48.76633769597676
+    ]
+  },
+  "properties": {
+    "FID": 113,
+    "mvt_id": 530,
+    "rank": 29,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6cc"
+  },
+  "type": "Feature",
+  "id": 114,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.217604398727417,
+      48.816415788762754
+    ]
+  },
+  "properties": {
+    "FID": 114,
+    "mvt_id": 461,
+    "rank": 28,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6cd"
+  },
+  "type": "Feature",
+  "id": 115,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168852567672731,
+      48.79859908830679
+    ]
+  },
+  "properties": {
+    "FID": 115,
+    "mvt_id": 533,
+    "rank": 36,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ce"
+  },
+  "type": "Feature",
+  "id": 116,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.194135069847123,
+      48.773560931020185
+    ]
+  },
+  "properties": {
+    "FID": 116,
+    "mvt_id": 490,
+    "rank": 36,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6cf"
+  },
+  "type": "Feature",
+  "id": 117,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.178192019462585,
+      48.79953194588854
+    ]
+  },
+  "properties": {
+    "FID": 117,
+    "mvt_id": 542,
+    "rank": 37,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d0"
+  },
+  "type": "Feature",
+  "id": 118,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.152630567550645,
+      48.76192121716058
+    ]
+  },
+  "properties": {
+    "FID": 118,
+    "mvt_id": 385,
+    "rank": 39,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d1"
+  },
+  "type": "Feature",
+  "id": 119,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182327985763552,
+      48.805715222261504
+    ]
+  },
+  "properties": {
+    "FID": 119,
+    "mvt_id": 564,
+    "rank": 39,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d2"
+  },
+  "type": "Feature",
+  "id": 120,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168664813041689,
+      48.80672567381452
+    ]
+  },
+  "properties": {
+    "FID": 120,
+    "mvt_id": 585,
+    "rank": 41,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d3"
+  },
+  "type": "Feature",
+  "id": 121,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.161589145660384,
+      48.78720905320526
+    ]
+  },
+  "properties": {
+    "FID": 121,
+    "mvt_id": 532,
+    "rank": 50,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d4"
+  },
+  "type": "Feature",
+  "id": 122,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.169244170188904,
+      48.80480367856757
+    ]
+  },
+  "properties": {
+    "FID": 122,
+    "mvt_id": 596,
+    "rank": 42,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d5"
+  },
+  "type": "Feature",
+  "id": 123,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.144074320793136,
+      48.75681119543073
+    ]
+  },
+  "properties": {
+    "FID": 123,
+    "mvt_id": 426,
+    "rank": 49,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d6"
+  },
+  "type": "Feature",
+  "id": 124,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168337583541872,
+      48.80549263753962
+    ]
+  },
+  "properties": {
+    "FID": 124,
+    "mvt_id": 635,
+    "rank": 48,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d7"
+  },
+  "type": "Feature",
+  "id": 125,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17587995529175,
+      48.80581768156333
+    ]
+  },
+  "properties": {
+    "FID": 125,
+    "mvt_id": 660,
+    "rank": 52,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d8"
+  },
+  "type": "Feature",
+  "id": 126,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1683965921402,
+      48.80582474771437
+    ]
+  },
+  "properties": {
+    "FID": 126,
+    "mvt_id": 663,
+    "rank": 52,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6d9"
+  },
+  "type": "Feature",
+  "id": 127,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.187220335006732,
+      48.80757712242825
+    ]
+  },
+  "properties": {
+    "FID": 127,
+    "mvt_id": 702,
+    "rank": 47,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6da"
+  },
+  "type": "Feature",
+  "id": 128,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.175509810447695,
+      48.80557036564999
+    ]
+  },
+  "properties": {
+    "FID": 128,
+    "mvt_id": 677,
+    "rank": 55,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6db"
+  },
+  "type": "Feature",
+  "id": 129,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.169002771377563,
+      48.80612152515858
+    ]
+  },
+  "properties": {
+    "FID": 129,
+    "mvt_id": 690,
+    "rank": 57,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6dc"
+  },
+  "type": "Feature",
+  "id": 130,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.174715876579285,
+      48.803015874217316
+    ]
+  },
+  "properties": {
+    "FID": 130,
+    "mvt_id": 699,
+    "rank": 59,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6dd"
+  },
+  "type": "Feature",
+  "id": 131,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.211011528968811,
+      48.79659903971892
+    ]
+  },
+  "properties": {
+    "FID": 131,
+    "mvt_id": 649,
+    "rank": 41,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6de"
+  },
+  "type": "Feature",
+  "id": 132,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.195926785469073,
+      48.78245507806012
+    ]
+  },
+  "properties": {
+    "FID": 132,
+    "mvt_id": 846,
+    "rank": 48,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6df"
+  },
+  "type": "Feature",
+  "id": 133,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.189940094947833,
+      48.77782437939116
+    ]
+  },
+  "properties": {
+    "FID": 133,
+    "mvt_id": 821,
+    "rank": 114,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e0"
+  },
+  "type": "Feature",
+  "id": 134,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.204209446907061,
+      48.806849329074836
+    ]
+  },
+  "properties": {
+    "FID": 134,
+    "mvt_id": 938,
+    "rank": 62,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e1"
+  },
+  "type": "Feature",
+  "id": 135,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.175660014152529,
+      48.79486041679543
+    ]
+  },
+  "properties": {
+    "FID": 135,
+    "mvt_id": 758,
+    "rank": 83,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e2"
+  },
+  "type": "Feature",
+  "id": 136,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.217287898063658,
+      48.817447218231706
+    ]
+  },
+  "properties": {
+    "FID": 136,
+    "mvt_id": 732,
+    "rank": 47,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e3"
+  },
+  "type": "Feature",
+  "id": 137,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.19073939323427,
+      48.81679374654536
+    ]
+  },
+  "properties": {
+    "FID": 137,
+    "mvt_id": 804,
+    "rank": 63,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e4"
+  },
+  "type": "Feature",
+  "id": 138,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.217180609703064,
+      48.81683613415633
+    ]
+  },
+  "properties": {
+    "FID": 138,
+    "mvt_id": 785,
+    "rank": 52,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e5"
+  },
+  "type": "Feature",
+  "id": 139,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168133735656738,
+      48.779174749387366
+    ]
+  },
+  "properties": {
+    "FID": 139,
+    "mvt_id": 1033,
+    "rank": 71,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e6"
+  },
+  "type": "Feature",
+  "id": 140,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.176051616668701,
+      48.78692983588697
+    ]
+  },
+  "properties": {
+    "FID": 140,
+    "mvt_id": 1137,
+    "rank": 83,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e7"
+  },
+  "type": "Feature",
+  "id": 141,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.216075539588928,
+      48.814999304805276
+    ]
+  },
+  "properties": {
+    "FID": 141,
+    "mvt_id": 980,
+    "rank": 70,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e8"
+  },
+  "type": "Feature",
+  "id": 142,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.207492470741272,
+      48.80037998318083
+    ]
+  },
+  "properties": {
+    "FID": 142,
+    "mvt_id": 985,
+    "rank": 74,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6e9"
+  },
+  "type": "Feature",
+  "id": 143,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.175971150398254,
+      48.78700405836369
+    ]
+  },
+  "properties": {
+    "FID": 143,
+    "mvt_id": 1238,
+    "rank": 95,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ea"
+  },
+  "type": "Feature",
+  "id": 144,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.190068840980546,
+      48.77802587669646
+    ]
+  },
+  "properties": {
+    "FID": 144,
+    "mvt_id": 1393,
+    "rank": 107,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6eb"
+  },
+  "type": "Feature",
+  "id": 145,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.165472984313967,
+      48.768031342625086
+    ]
+  },
+  "properties": {
+    "FID": 145,
+    "mvt_id": 1595,
+    "rank": 111,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ec"
+  },
+  "type": "Feature",
+  "id": 146,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.209686517715454,
+      48.804733015573746
+    ]
+  },
+  "properties": {
+    "FID": 146,
+    "mvt_id": 1359,
+    "rank": 321,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ed"
+  },
+  "type": "Feature",
+  "id": 147,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182456731796266,
+      48.76732065443185
+    ]
+  },
+  "properties": {
+    "FID": 147,
+    "mvt_id": 1930,
+    "rank": 146,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f47755855c6cd6a4a6ee"
+  },
+  "type": "Feature",
+  "id": 148,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.167259335517883,
+      48.76727822496782
+    ]
+  },
+  "properties": {
+    "FID": 148,
+    "mvt_id": 2045,
+    "rank": 162,
+    "name_de": " ",
+    "name_int": " ",
+    "subclass": "viewpoint",
+    "class": "attraction"
+  }
+}]
