@@ -1,0 +1,4445 @@
+[{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4e4"
+  },
+  "type": "Feature",
+  "id": 0,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.076139330863956,
+      48.807110770621364
+    ]
+  },
+  "properties": {
+    "FID": 0,
+    "mvt_id": 47,
+    "rank": 3,
+    "name_de": "Apotheke im Real",
+    "name_int": "Apotheke im Real",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4e5"
+  },
+  "type": "Feature",
+  "id": 1,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.27581906318666,
+      48.749900346178364
+    ]
+  },
+  "properties": {
+    "FID": 1,
+    "mvt_id": 71,
+    "rank": 5,
+    "name_de": "Urban-Apotheke",
+    "name_int": "Urban-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4e6"
+  },
+  "type": "Feature",
+  "id": 2,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.297249913215634,
+      48.857670532882175
+    ]
+  },
+  "properties": {
+    "FID": 2,
+    "mvt_id": 77,
+    "rank": 7,
+    "name_de": "Apotheke Hegnach",
+    "name_int": "Apotheke Hegnach",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4e7"
+  },
+  "type": "Feature",
+  "id": 3,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2783296108246,
+      48.746929166920125
+    ]
+  },
+  "properties": {
+    "FID": 3,
+    "mvt_id": 87,
+    "rank": 6,
+    "name_de": "Kirch-Apotheke",
+    "name_int": "Kirch-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4e8"
+  },
+  "type": "Feature",
+  "id": 4,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.033417105674747,
+      48.86516293320189
+    ]
+  },
+  "properties": {
+    "FID": 4,
+    "mvt_id": 74,
+    "rank": 23,
+    "name_de": "Schloss-Apotheke",
+    "name_int": "Schloss-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4e9"
+  },
+  "type": "Feature",
+  "id": 5,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.236057996749894,
+      48.80390271793803
+    ]
+  },
+  "properties": {
+    "FID": 5,
+    "mvt_id": 123,
+    "rank": 8,
+    "name_de": "Daimler-Apotheke",
+    "name_int": "Daimler-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4ea"
+  },
+  "type": "Feature",
+  "id": 6,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.140399694442753,
+      48.69610543443716
+    ]
+  },
+  "properties": {
+    "FID": 6,
+    "mvt_id": 102,
+    "rank": 7,
+    "name_de": "Rats Apotheke",
+    "name_int": "Rats Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4eb"
+  },
+  "type": "Feature",
+  "id": 7,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.191758632659928,
+      48.85684817099722
+    ]
+  },
+  "properties": {
+    "FID": 7,
+    "mvt_id": 103,
+    "rank": 8,
+    "name_de": "Park-Apotheke",
+    "name_int": "Park-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4ec"
+  },
+  "type": "Feature",
+  "id": 8,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.299814105033873,
+      48.81686439254376
+    ]
+  },
+  "properties": {
+    "FID": 8,
+    "mvt_id": 144,
+    "rank": 11,
+    "name_de": "Remspark-Apotheke",
+    "name_int": "Remspark-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4ed"
+  },
+  "type": "Feature",
+  "id": 9,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.251990318298338,
+      48.86353255814669
+    ]
+  },
+  "properties": {
+    "FID": 9,
+    "mvt_id": 107,
+    "rank": 15,
+    "name_de": "Adler-Apotheke",
+    "name_int": "Adler-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4ee"
+  },
+  "type": "Feature",
+  "id": 10,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.253916144371031,
+      48.707101954187
+    ]
+  },
+  "properties": {
+    "FID": 10,
+    "mvt_id": 96,
+    "rank": 8,
+    "name_de": "Apotheke im Marktkauf",
+    "name_int": "Apotheke im Marktkauf",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4ef"
+  },
+  "type": "Feature",
+  "id": 11,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.03815388679505,
+      48.837174519125334
+    ]
+  },
+  "properties": {
+    "FID": 11,
+    "mvt_id": 115,
+    "rank": 18,
+    "name_de": "Apotheke am Rathausplatz",
+    "name_int": "Apotheke am Rathausplatz",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f0"
+  },
+  "type": "Feature",
+  "id": 12,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.229760169982926,
+      48.74134711944689
+    ]
+  },
+  "properties": {
+    "FID": 12,
+    "mvt_id": 155,
+    "rank": 16,
+    "name_de": "Pelikan Apotheke",
+    "name_int": "Pelikan Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f1"
+  },
+  "type": "Feature",
+  "id": 13,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.146069884300216,
+      48.692196240820195
+    ]
+  },
+  "properties": {
+    "FID": 13,
+    "mvt_id": 146,
+    "rank": 11,
+    "name_de": "Spitzweg-Apotheke",
+    "name_int": "Spitzweg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f2"
+  },
+  "type": "Feature",
+  "id": 14,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.305698871612547,
+      48.72827392992413
+    ]
+  },
+  "properties": {
+    "FID": 14,
+    "mvt_id": 143,
+    "rank": 9,
+    "name_de": "Apotheke am Zollberg",
+    "name_int": "Apotheke am Zollberg",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f3"
+  },
+  "type": "Feature",
+  "id": 15,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.035139083862308,
+      48.86531820424653
+    ]
+  },
+  "properties": {
+    "FID": 15,
+    "mvt_id": 98,
+    "rank": 39,
+    "name_de": "Park Apotheke",
+    "name_int": "Park Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f4"
+  },
+  "type": "Feature",
+  "id": 16,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.252666234970091,
+      48.86455948888583
+    ]
+  },
+  "properties": {
+    "FID": 16,
+    "mvt_id": 133,
+    "rank": 25,
+    "name_de": "Apotheke am Löwenplatz",
+    "name_int": "Apotheke am Löwenplatz",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f5"
+  },
+  "type": "Feature",
+  "id": 17,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.263872504234312,
+      48.84327548412604
+    ]
+  },
+  "properties": {
+    "FID": 17,
+    "mvt_id": 116,
+    "rank": 24,
+    "name_de": "Apotheke Oeffingen",
+    "name_int": "Apotheke Oeffingen",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f6"
+  },
+  "type": "Feature",
+  "id": 18,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.306004643440243,
+      48.81943230700069
+    ]
+  },
+  "properties": {
+    "FID": 18,
+    "mvt_id": 182,
+    "rank": 18,
+    "name_de": "Engel-Apotheke",
+    "name_int": "Engel-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f7"
+  },
+  "type": "Feature",
+  "id": 19,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.299916028976439,
+      48.75805957398422
+    ]
+  },
+  "properties": {
+    "FID": 19,
+    "mvt_id": 116,
+    "rank": 11,
+    "name_de": "Sonnen-Apotheke",
+    "name_int": "Sonnen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f8"
+  },
+  "type": "Feature",
+  "id": 20,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.20852780342102,
+      48.72269688846776
+    ]
+  },
+  "properties": {
+    "FID": 20,
+    "mvt_id": 166,
+    "rank": 15,
+    "name_de": "Birken-Apotheke",
+    "name_int": "Birken-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4f9"
+  },
+  "type": "Feature",
+  "id": 21,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.122686386108402,
+      48.6921749943734
+    ]
+  },
+  "properties": {
+    "FID": 21,
+    "mvt_id": 145,
+    "rank": 10,
+    "name_de": "Hubertus Apotheke",
+    "name_int": "Hubertus Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4fa"
+  },
+  "type": "Feature",
+  "id": 22,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.106362462043748,
+      48.717579338095526
+    ]
+  },
+  "properties": {
+    "FID": 22,
+    "mvt_id": 153,
+    "rank": 14,
+    "name_de": "Apotheke Rohr",
+    "name_int": "Apotheke Rohr",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4fb"
+  },
+  "type": "Feature",
+  "id": 23,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.153558611869798,
+      48.71373198473124
+    ]
+  },
+  "properties": {
+    "FID": 23,
+    "mvt_id": 170,
+    "rank": 14,
+    "name_de": "Laralex Apotheke Fasanenhof",
+    "name_int": "Laralex Apotheke Fasanenhof",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4fc"
+  },
+  "type": "Feature",
+  "id": 24,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.23188984394075,
+      48.8306419910005
+    ]
+  },
+  "properties": {
+    "FID": 24,
+    "mvt_id": 157,
+    "rank": 11,
+    "name_de": "Neugereut-Apotheke",
+    "name_int": "Neugereut-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4fd"
+  },
+  "type": "Feature",
+  "id": 25,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.231015443801894,
+      48.827827444732826
+    ]
+  },
+  "properties": {
+    "FID": 25,
+    "mvt_id": 163,
+    "rank": 11,
+    "name_de": "Steinhalden-Apotheke",
+    "name_int": "Steinhalden-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4fe"
+  },
+  "type": "Feature",
+  "id": 26,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.232614040374772,
+      48.746387968927245
+    ]
+  },
+  "properties": {
+    "FID": 26,
+    "mvt_id": 168,
+    "rank": 23,
+    "name_de": "Brunnen-Apotheke",
+    "name_int": "Brunnen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a4ff"
+  },
+  "type": "Feature",
+  "id": 27,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.231750369071976,
+      48.84375562112271
+    ]
+  },
+  "properties": {
+    "FID": 27,
+    "mvt_id": 211,
+    "rank": 31,
+    "name_de": "Turm Apotheke",
+    "name_int": "Turm Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a500"
+  },
+  "type": "Feature",
+  "id": 28,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.263148307800293,
+      48.7079515530822
+    ]
+  },
+  "properties": {
+    "FID": 28,
+    "mvt_id": 133,
+    "rank": 14,
+    "name_de": "Rathaus-Apotheke",
+    "name_int": "Rathaus-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a501"
+  },
+  "type": "Feature",
+  "id": 29,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.121152162551882,
+      48.827753282655834
+    ]
+  },
+  "properties": {
+    "FID": 29,
+    "mvt_id": 130,
+    "rank": 11,
+    "name_de": "Am Bahnhof",
+    "name_int": "Am Bahnhof",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a502"
+  },
+  "type": "Feature",
+  "id": 30,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13147866725922,
+      48.77773953817854
+    ]
+  },
+  "properties": {
+    "FID": 30,
+    "mvt_id": 143,
+    "rank": 9,
+    "name_de": "Apotheke Botnang",
+    "name_int": "Apotheke Botnang",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a503"
+  },
+  "type": "Feature",
+  "id": 31,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.153285026550277,
+      48.74149216147863
+    ]
+  },
+  "properties": {
+    "FID": 31,
+    "mvt_id": 230,
+    "rank": 16,
+    "name_de": "Apotheke am Sonnenberg",
+    "name_int": "Apotheke am Sonnenberg",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a504"
+  },
+  "type": "Feature",
+  "id": 32,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.144423007965074,
+      48.70339187093934
+    ]
+  },
+  "properties": {
+    "FID": 32,
+    "mvt_id": 191,
+    "rank": 15,
+    "name_de": "Kristall Apotheke",
+    "name_int": "Kristall Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a505"
+  },
+  "type": "Feature",
+  "id": 33,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130067825317386,
+      48.74023983355675
+    ]
+  },
+  "properties": {
+    "FID": 33,
+    "mvt_id": 197,
+    "rank": 15,
+    "name_de": "Schwarzwald Apotheke",
+    "name_int": "Schwarzwald Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a506"
+  },
+  "type": "Feature",
+  "id": 34,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.268571734428406,
+      48.74131174327809
+    ]
+  },
+  "properties": {
+    "FID": 34,
+    "mvt_id": 176,
+    "rank": 23,
+    "name_de": "Apotheke im Neckarcenter",
+    "name_int": "Apotheke im Neckarcenter",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a507"
+  },
+  "type": "Feature",
+  "id": 35,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.202122688293473,
+      48.71007194774955
+    ]
+  },
+  "properties": {
+    "FID": 35,
+    "mvt_id": 175,
+    "rank": 18,
+    "name_de": "Garben-Apotheke",
+    "name_int": "Garben-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a508"
+  },
+  "type": "Feature",
+  "id": 36,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.067749381065356,
+      48.801178538523445
+    ]
+  },
+  "properties": {
+    "FID": 36,
+    "mvt_id": 134,
+    "rank": 11,
+    "name_de": "Goethe Apotheke",
+    "name_int": "Goethe Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a509"
+  },
+  "type": "Feature",
+  "id": 37,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.311905503273008,
+      48.74986143901378
+    ]
+  },
+  "properties": {
+    "FID": 37,
+    "mvt_id": 140,
+    "rank": 16,
+    "name_de": "Burg-Apotheke",
+    "name_int": "Burg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a50a"
+  },
+  "type": "Feature",
+  "id": 38,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.315971732139586,
+      48.752160447033106
+    ]
+  },
+  "properties": {
+    "FID": 38,
+    "mvt_id": 144,
+    "rank": 17,
+    "name_de": "Bärenapotheke",
+    "name_int": "Bärenapotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a50b"
+  },
+  "type": "Feature",
+  "id": 39,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.181453585624695,
+      48.73458628132258
+    ]
+  },
+  "properties": {
+    "FID": 39,
+    "mvt_id": 156,
+    "rank": 11,
+    "name_de": "Steinbock Apotheke",
+    "name_int": "Steinbock Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a50c"
+  },
+  "type": "Feature",
+  "id": 40,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.30812895298004,
+      48.73758649335234
+    ]
+  },
+  "properties": {
+    "FID": 40,
+    "mvt_id": 177,
+    "rank": 13,
+    "name_de": "Vogelsang-Apotheke",
+    "name_int": "Vogelsang-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a50d"
+  },
+  "type": "Feature",
+  "id": 41,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.231632351875321,
+      48.806651480511974
+    ]
+  },
+  "properties": {
+    "FID": 41,
+    "mvt_id": 269,
+    "rank": 19,
+    "name_de": "Apotheke an der Sankt-Anna-Klinik",
+    "name_int": "Apotheke an der Sankt-Anna-Klinik",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a50e"
+  },
+  "type": "Feature",
+  "id": 42,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.170140027999878,
+      48.78989158093228
+    ]
+  },
+  "properties": {
+    "FID": 42,
+    "mvt_id": 237,
+    "rank": 12,
+    "name_de": "Birkenwald-Apotheke",
+    "name_int": "Birkenwald-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a50f"
+  },
+  "type": "Feature",
+  "id": 43,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.218661189079285,
+      48.7832751267307
+    ]
+  },
+  "properties": {
+    "FID": 43,
+    "mvt_id": 198,
+    "rank": 12,
+    "name_de": "Einhorn-Apotheke",
+    "name_int": "Einhorn-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a510"
+  },
+  "type": "Feature",
+  "id": 44,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.272519946098342,
+      48.81816779335054
+    ]
+  },
+  "properties": {
+    "FID": 44,
+    "mvt_id": 201,
+    "rank": 14,
+    "name_de": "Bahnhof Apotheke",
+    "name_int": "Bahnhof Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a511"
+  },
+  "type": "Feature",
+  "id": 45,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.230098128318803,
+      48.71820932744626
+    ]
+  },
+  "properties": {
+    "FID": 45,
+    "mvt_id": 145,
+    "rank": 42,
+    "name_de": "Apotheke Kemnat",
+    "name_int": "Apotheke Kemnat",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a512"
+  },
+  "type": "Feature",
+  "id": 46,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.206269383430497,
+      48.77750975917427
+    ]
+  },
+  "properties": {
+    "FID": 46,
+    "mvt_id": 193,
+    "rank": 12,
+    "name_de": "Strauß-Apotheke",
+    "name_int": "Strauß-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a513"
+  },
+  "type": "Feature",
+  "id": 47,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.316395521163937,
+      48.69442706784034
+    ]
+  },
+  "properties": {
+    "FID": 47,
+    "mvt_id": 129,
+    "rank": 22,
+    "name_de": "Rathaus Apotheke",
+    "name_int": "Rathaus Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a514"
+  },
+  "type": "Feature",
+  "id": 48,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.089925885200504,
+      48.855263409778
+    ]
+  },
+  "properties": {
+    "FID": 48,
+    "mvt_id": 142,
+    "rank": 25,
+    "name_de": "Strohgäu-Apotheke",
+    "name_int": "Strohgäu-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a515"
+  },
+  "type": "Feature",
+  "id": 49,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.244329929351823,
+      48.77212555930718
+    ]
+  },
+  "properties": {
+    "FID": 49,
+    "mvt_id": 237,
+    "rank": 20,
+    "name_de": "Apotheke am Marktplatz",
+    "name_int": "Apotheke am Marktplatz",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a516"
+  },
+  "type": "Feature",
+  "id": 50,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.157952070236192,
+      48.762189965159386
+    ]
+  },
+  "properties": {
+    "FID": 50,
+    "mvt_id": 195,
+    "rank": 12,
+    "name_de": "Alte Heslacher Apotheke",
+    "name_int": "Alte Heslacher Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a517"
+  },
+  "type": "Feature",
+  "id": 51,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.223580360412598,
+      48.87267185376782
+    ]
+  },
+  "properties": {
+    "FID": 51,
+    "mvt_id": 142,
+    "rank": 20,
+    "name_de": "Apotheke Pattonpoint",
+    "name_int": "Apotheke Pattonpoint",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a518"
+  },
+  "type": "Feature",
+  "id": 52,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.120760560035707,
+      48.81263958679916
+    ]
+  },
+  "properties": {
+    "FID": 52,
+    "mvt_id": 248,
+    "rank": 24,
+    "name_de": "Pfaffenäcker-Apotheke",
+    "name_int": "Pfaffenäcker-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a519"
+  },
+  "type": "Feature",
+  "id": 53,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.108352661132798,
+      48.73268982853334
+    ]
+  },
+  "properties": {
+    "FID": 53,
+    "mvt_id": 176,
+    "rank": 12,
+    "name_de": "Bärenapotheke",
+    "name_int": "Bärenapotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a51a"
+  },
+  "type": "Feature",
+  "id": 54,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.222115874290466,
+      48.833304540434156
+    ]
+  },
+  "properties": {
+    "FID": 54,
+    "mvt_id": 227,
+    "rank": 15,
+    "name_de": "Max-Eyth-Apotheke",
+    "name_int": "Max-Eyth-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a51b"
+  },
+  "type": "Feature",
+  "id": 55,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.263550639152525,
+      48.834226159194856
+    ]
+  },
+  "properties": {
+    "FID": 55,
+    "mvt_id": 160,
+    "rank": 22,
+    "name_de": "Rathaus-Apotheke",
+    "name_int": "Rathaus-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a51c"
+  },
+  "type": "Feature",
+  "id": 56,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168010354042055,
+      48.785007082043144
+    ]
+  },
+  "properties": {
+    "FID": 56,
+    "mvt_id": 281,
+    "rank": 14,
+    "name_de": "Kaiser-Apotheke",
+    "name_int": "Kaiser-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a51d"
+  },
+  "type": "Feature",
+  "id": 57,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.197890162467973,
+      48.860628100435676
+    ]
+  },
+  "properties": {
+    "FID": 57,
+    "mvt_id": 234,
+    "rank": 21,
+    "name_de": "Stern-Apotheke",
+    "name_int": "Stern-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a51e"
+  },
+  "type": "Feature",
+  "id": 58,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.220098853111267,
+      48.84261881872205
+    ]
+  },
+  "properties": {
+    "FID": 58,
+    "mvt_id": 198,
+    "rank": 16,
+    "name_de": "Mönchfeld-Apotheke",
+    "name_int": "Mönchfeld-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a51f"
+  },
+  "type": "Feature",
+  "id": 59,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.10906612873076,
+      48.7338043570298
+    ]
+  },
+  "properties": {
+    "FID": 59,
+    "mvt_id": 194,
+    "rank": 13,
+    "name_de": "Österfeld-Apotheke",
+    "name_int": "Österfeld-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a520"
+  },
+  "type": "Feature",
+  "id": 60,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.263185858726501,
+      48.83220281300191
+    ]
+  },
+  "properties": {
+    "FID": 60,
+    "mvt_id": 170,
+    "rank": 26,
+    "name_de": "Neue Apotheke",
+    "name_int": "Neue Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a521"
+  },
+  "type": "Feature",
+  "id": 61,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.208452701568602,
+      48.841771495801076
+    ]
+  },
+  "properties": {
+    "FID": 61,
+    "mvt_id": 206,
+    "rank": 17,
+    "name_de": "Freiberg Apotheke",
+    "name_int": "Freiberg Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a522"
+  },
+  "type": "Feature",
+  "id": 62,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.181212186813356,
+      48.8618103727002
+    ]
+  },
+  "properties": {
+    "FID": 62,
+    "mvt_id": 240,
+    "rank": 25,
+    "name_de": "easyApotheke",
+    "name_int": "easyApotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a523"
+  },
+  "type": "Feature",
+  "id": 63,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.20300781726839,
+      48.83611524810487
+    ]
+  },
+  "properties": {
+    "FID": 63,
+    "mvt_id": 354,
+    "rank": 32,
+    "name_de": "Atlas-Apotheke",
+    "name_int": "Atlas-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a524"
+  },
+  "type": "Feature",
+  "id": 64,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.076965451240543,
+      48.876327104632516
+    ]
+  },
+  "properties": {
+    "FID": 64,
+    "mvt_id": 249,
+    "rank": 48,
+    "name_de": "Sonnen-Apotheke",
+    "name_int": "Sonnen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a525"
+  },
+  "type": "Feature",
+  "id": 65,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.230795502662675,
+      48.81281974882654
+    ]
+  },
+  "properties": {
+    "FID": 65,
+    "mvt_id": 239,
+    "rank": 14,
+    "name_de": "Katzensteig-Apotheke",
+    "name_int": "Katzensteig-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a526"
+  },
+  "type": "Feature",
+  "id": 66,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.122852683067324,
+      48.72969993958007
+    ]
+  },
+  "properties": {
+    "FID": 66,
+    "mvt_id": 265,
+    "rank": 17,
+    "name_de": "Apotheke am Wallgraben",
+    "name_int": "Apotheke am Wallgraben",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a527"
+  },
+  "type": "Feature",
+  "id": 67,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.092205762863163,
+      48.85434570773853
+    ]
+  },
+  "properties": {
+    "FID": 67,
+    "mvt_id": 175,
+    "rank": 52,
+    "name_de": "Christoph-Apotheke",
+    "name_int": "Christoph-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a528"
+  },
+  "type": "Feature",
+  "id": 68,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.20445621013643,
+      48.77607096518952
+    ]
+  },
+  "properties": {
+    "FID": 68,
+    "mvt_id": 254,
+    "rank": 16,
+    "name_de": "Schwaben-Apotheke",
+    "name_int": "Schwaben-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a529"
+  },
+  "type": "Feature",
+  "id": 69,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.211982488632202,
+      48.701122496284
+    ]
+  },
+  "properties": {
+    "FID": 69,
+    "mvt_id": 167,
+    "rank": 57,
+    "name_de": "Paracelsus-Apotheke",
+    "name_int": "Paracelsus-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a52a"
+  },
+  "type": "Feature",
+  "id": 70,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.073907732963548,
+      48.87660229610692
+    ]
+  },
+  "properties": {
+    "FID": 70,
+    "mvt_id": 190,
+    "rank": 41,
+    "name_de": "Central-Apotheke",
+    "name_int": "Central-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a52b"
+  },
+  "type": "Feature",
+  "id": 71,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.277653694152848,
+      48.806722140802606
+    ]
+  },
+  "properties": {
+    "FID": 71,
+    "mvt_id": 263,
+    "rank": 53,
+    "name_de": "Trauben-Apotheke",
+    "name_int": "Trauben-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a52c"
+  },
+  "type": "Feature",
+  "id": 72,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.231685996055619,
+      48.806630282405365
+    ]
+  },
+  "properties": {
+    "FID": 72,
+    "mvt_id": 355,
+    "rank": 28,
+    "name_de": "Apotheke an der St.-Anna-Klinik",
+    "name_int": "Apotheke an der St.-Anna-Klinik",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a52d"
+  },
+  "type": "Feature",
+  "id": 73,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1276752948761,
+      48.7788636726086
+    ]
+  },
+  "properties": {
+    "FID": 73,
+    "mvt_id": 253,
+    "rank": 29,
+    "name_de": "Quellen-Apotheke",
+    "name_int": "Quellen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a52e"
+  },
+  "type": "Feature",
+  "id": 74,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.119639396667484,
+      48.81439525583262
+    ]
+  },
+  "properties": {
+    "FID": 74,
+    "mvt_id": 321,
+    "rank": 37,
+    "name_de": "Uhland-Apotheke",
+    "name_int": "Uhland-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a52f"
+  },
+  "type": "Feature",
+  "id": 75,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.090988039970403,
+      48.803570595034756
+    ]
+  },
+  "properties": {
+    "FID": 75,
+    "mvt_id": 218,
+    "rank": 22,
+    "name_de": "Giebel Apotheke",
+    "name_int": "Giebel Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a530"
+  },
+  "type": "Feature",
+  "id": 76,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182081222534181,
+      48.8615527456014
+    ]
+  },
+  "properties": {
+    "FID": 76,
+    "mvt_id": 296,
+    "rank": 34,
+    "name_de": "Johannes-Apotheke",
+    "name_int": "Johannes-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a531"
+  },
+  "type": "Feature",
+  "id": 77,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.195175766944903,
+      48.77408415976374
+    ]
+  },
+  "properties": {
+    "FID": 77,
+    "mvt_id": 291,
+    "rank": 18,
+    "name_de": "Apotheke am Bubenbad",
+    "name_int": "Apotheke am Bubenbad",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a532"
+  },
+  "type": "Feature",
+  "id": 78,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.12725150585175,
+      48.77838998381085
+    ]
+  },
+  "properties": {
+    "FID": 78,
+    "mvt_id": 270,
+    "rank": 36,
+    "name_de": "Schubert-Apotheke",
+    "name_int": "Schubert-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a533"
+  },
+  "type": "Feature",
+  "id": 79,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.219202995300295,
+      48.74006648627301
+    ]
+  },
+  "properties": {
+    "FID": 79,
+    "mvt_id": 225,
+    "rank": 19,
+    "name_de": "Forum Apotheke",
+    "name_int": "Forum Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a534"
+  },
+  "type": "Feature",
+  "id": 80,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1412043571472,
+      48.69702957443549
+    ]
+  },
+  "properties": {
+    "FID": 80,
+    "mvt_id": 397,
+    "rank": 37,
+    "name_de": "Markt-Apotheke",
+    "name_int": "Markt-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a535"
+  },
+  "type": "Feature",
+  "id": 81,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.209241271018982,
+      48.812713771241775
+    ]
+  },
+  "properties": {
+    "FID": 81,
+    "mvt_id": 334,
+    "rank": 20,
+    "name_de": "Sofien-Apotheke",
+    "name_int": "Sofien-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a536"
+  },
+  "type": "Feature",
+  "id": 82,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16124582290648,
+      48.78366747286432
+    ]
+  },
+  "properties": {
+    "FID": 82,
+    "mvt_id": 336,
+    "rank": 23,
+    "name_de": "Falkert-Apotheke",
+    "name_int": "Falkert-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a537"
+  },
+  "type": "Feature",
+  "id": 83,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.156256914138778,
+      48.80861579950168
+    ]
+  },
+  "properties": {
+    "FID": 83,
+    "mvt_id": 276,
+    "rank": 27,
+    "name_de": "Stadtapotheke",
+    "name_int": "Stadtapotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a538"
+  },
+  "type": "Feature",
+  "id": 84,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.189489483833329,
+      48.860921024226066
+    ]
+  },
+  "properties": {
+    "FID": 84,
+    "mvt_id": 320,
+    "rank": 35,
+    "name_de": "Uhland Apotheke",
+    "name_int": "Uhland Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a539"
+  },
+  "type": "Feature",
+  "id": 85,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182338714599611,
+      48.864400686540655
+    ]
+  },
+  "properties": {
+    "FID": 85,
+    "mvt_id": 333,
+    "rank": 40,
+    "name_de": "Stadt-Apotheke",
+    "name_int": "Stadt-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a53a"
+  },
+  "type": "Feature",
+  "id": 86,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.184822440147416,
+      48.864481852246705
+    ]
+  },
+  "properties": {
+    "FID": 86,
+    "mvt_id": 321,
+    "rank": 35,
+    "name_de": "Stern-Apotheke im Wette-Center",
+    "name_int": "Stern-Apotheke im Wette-Center",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a53b"
+  },
+  "type": "Feature",
+  "id": 87,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.186683893203753,
+      48.770577008832895
+    ]
+  },
+  "properties": {
+    "FID": 87,
+    "mvt_id": 332,
+    "rank": 22,
+    "name_de": "Stitzenburg-Apotheke",
+    "name_int": "Stitzenburg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a53c"
+  },
+  "type": "Feature",
+  "id": 88,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.268893599510191,
+      48.76272745684294
+    ]
+  },
+  "properties": {
+    "FID": 88,
+    "mvt_id": 246,
+    "rank": 26,
+    "name_de": "Alte Mühle",
+    "name_int": "Alte Mühle",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a53d"
+  },
+  "type": "Feature",
+  "id": 89,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.205062389373797,
+      48.781136609651966
+    ]
+  },
+  "properties": {
+    "FID": 89,
+    "mvt_id": 460,
+    "rank": 23,
+    "name_de": "Wagenburg Apotheke",
+    "name_int": "Wagenburg Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a53e"
+  },
+  "type": "Feature",
+  "id": 90,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.116082787513719,
+      48.81408086489101
+    ]
+  },
+  "properties": {
+    "FID": 90,
+    "mvt_id": 331,
+    "rank": 31,
+    "name_de": "Malven Apotheke",
+    "name_int": "Malven Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a53f"
+  },
+  "type": "Feature",
+  "id": 91,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.237935543060319,
+      48.77492555671336
+    ]
+  },
+  "properties": {
+    "FID": 91,
+    "mvt_id": 356,
+    "rank": 43,
+    "name_de": "Rinkenberg Apotheke",
+    "name_int": "Rinkenberg Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a540"
+  },
+  "type": "Feature",
+  "id": 92,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.172049760818483,
+      48.79968388695771
+    ]
+  },
+  "properties": {
+    "FID": 92,
+    "mvt_id": 418,
+    "rank": 27,
+    "name_de": "LaraLex-Apotheke Killesberg",
+    "name_int": "LaraLex-Apotheke Killesberg",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a541"
+  },
+  "type": "Feature",
+  "id": 93,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.299529790878294,
+      48.714301850480204
+    ]
+  },
+  "properties": {
+    "FID": 93,
+    "mvt_id": 320,
+    "rank": 54,
+    "name_de": "Kosmas-Apotheke MACHE",
+    "name_int": "Kosmas-Apotheke MACHE",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a542"
+  },
+  "type": "Feature",
+  "id": 94,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.314035177230833,
+      48.73784475795159
+    ]
+  },
+  "properties": {
+    "FID": 94,
+    "mvt_id": 294,
+    "rank": 27,
+    "name_de": "Obertor-Apotheke",
+    "name_int": "Obertor-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a543"
+  },
+  "type": "Feature",
+  "id": 95,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.253057837486265,
+      48.73033331551408
+    ]
+  },
+  "properties": {
+    "FID": 95,
+    "mvt_id": 203,
+    "rank": 23,
+    "name_de": "Rosen-Apotheke",
+    "name_int": "Rosen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a544"
+  },
+  "type": "Feature",
+  "id": 96,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.27145779132843,
+      48.72115389214559
+    ]
+  },
+  "properties": {
+    "FID": 96,
+    "mvt_id": 207,
+    "rank": 24,
+    "name_de": "Scharnhauser Park Apotheke Mache",
+    "name_int": "Scharnhauser Park Apotheke Mache",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a545"
+  },
+  "type": "Feature",
+  "id": 97,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.195384979248065,
+      48.83255240221508
+    ]
+  },
+  "properties": {
+    "FID": 97,
+    "mvt_id": 371,
+    "rank": 25,
+    "name_de": "Romeo",
+    "name_int": "Romeo",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a546"
+  },
+  "type": "Feature",
+  "id": 98,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.193432331085223,
+      48.787862910466544
+    ]
+  },
+  "properties": {
+    "FID": 98,
+    "mvt_id": 500,
+    "rank": 25,
+    "name_de": "Stöckach Apotheke",
+    "name_int": "Stöckach Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a547"
+  },
+  "type": "Feature",
+  "id": 99,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.121833443641664,
+      48.83068436690058
+    ]
+  },
+  "properties": {
+    "FID": 99,
+    "mvt_id": 246,
+    "rank": 35,
+    "name_de": "Zentral Apotheke‎",
+    "name_int": "Zentral Apotheke‎",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a548"
+  },
+  "type": "Feature",
+  "id": 100,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.15174543857573,
+      48.760153102370104
+    ]
+  },
+  "properties": {
+    "FID": 100,
+    "mvt_id": 322,
+    "rank": 27,
+    "name_de": "Bihlplatz-Apotheke",
+    "name_int": "Bihlplatz-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a549"
+  },
+  "type": "Feature",
+  "id": 101,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.189714789390582,
+      48.79569086412337
+    ]
+  },
+  "properties": {
+    "FID": 101,
+    "mvt_id": 556,
+    "rank": 27,
+    "name_de": "Nordbahnhof Apotheke",
+    "name_int": "Nordbahnhof Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a54a"
+  },
+  "type": "Feature",
+  "id": 102,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.165022373199465,
+      48.785664502491095
+    ]
+  },
+  "properties": {
+    "FID": 102,
+    "mvt_id": 449,
+    "rank": 23,
+    "name_de": "Herdweg-Apotheke",
+    "name_int": "Herdweg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a54b"
+  },
+  "type": "Feature",
+  "id": 103,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.146971106529222,
+      48.77488666892987
+    ]
+  },
+  "properties": {
+    "FID": 103,
+    "mvt_id": 472,
+    "rank": 25,
+    "name_de": "Moltke-Apotheke",
+    "name_int": "Moltke-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a54c"
+  },
+  "type": "Feature",
+  "id": 104,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.25319194793701,
+      48.78079019665731
+    ]
+  },
+  "properties": {
+    "FID": 104,
+    "mvt_id": 286,
+    "rank": 37,
+    "name_de": "Widderstein-Apotheke",
+    "name_int": "Widderstein-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a54d"
+  },
+  "type": "Feature",
+  "id": 105,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.122289419174196,
+      48.82964261563456
+    ]
+  },
+  "properties": {
+    "FID": 105,
+    "mvt_id": 261,
+    "rank": 41,
+    "name_de": "Apotheke Dr. Beck",
+    "name_int": "Apotheke Dr. Beck",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a54e"
+  },
+  "type": "Feature",
+  "id": 106,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.251496791839598,
+      48.781748128796764
+    ]
+  },
+  "properties": {
+    "FID": 106,
+    "mvt_id": 293,
+    "rank": 39,
+    "name_de": "Wirtemberg-Apotheke",
+    "name_int": "Wirtemberg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a54f"
+  },
+  "type": "Feature",
+  "id": 107,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.300522208213804,
+      48.73503561692971
+    ]
+  },
+  "properties": {
+    "FID": 107,
+    "mvt_id": 315,
+    "rank": 31,
+    "name_de": "Brücken-Apotheke",
+    "name_int": "Brücken-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a550"
+  },
+  "type": "Feature",
+  "id": 108,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.300157427787777,
+      48.71423459957868
+    ]
+  },
+  "properties": {
+    "FID": 108,
+    "mvt_id": 341,
+    "rank": 75,
+    "name_de": "Alte Apotheke",
+    "name_int": "Alte Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a551"
+  },
+  "type": "Feature",
+  "id": 109,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.062975049018846,
+      48.798129119392804
+    ]
+  },
+  "properties": {
+    "FID": 109,
+    "mvt_id": 290,
+    "rank": 41,
+    "name_de": "Schiller Apotheke",
+    "name_int": "Schiller Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a552"
+  },
+  "type": "Feature",
+  "id": 110,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.065560698509204,
+      48.8269551504996
+    ]
+  },
+  "properties": {
+    "FID": 110,
+    "mvt_id": 228,
+    "rank": 56,
+    "name_de": "Stadt-Apotheke",
+    "name_int": "Stadt-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a553"
+  },
+  "type": "Feature",
+  "id": 111,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.107285141944871,
+      48.72497944529939
+    ]
+  },
+  "properties": {
+    "FID": 111,
+    "mvt_id": 359,
+    "rank": 25,
+    "name_de": "Park-Apotheke",
+    "name_int": "Park-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a554"
+  },
+  "type": "Feature",
+  "id": 112,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.25274133682251,
+      48.779203028998936
+    ]
+  },
+  "properties": {
+    "FID": 112,
+    "mvt_id": 314,
+    "rank": 48,
+    "name_de": "Alte Apotheke",
+    "name_int": "Alte Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a555"
+  },
+  "type": "Feature",
+  "id": 113,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.114183783531175,
+      48.81369935413425
+    ]
+  },
+  "properties": {
+    "FID": 113,
+    "mvt_id": 387,
+    "rank": 52,
+    "name_de": "Solitude-Apotheke",
+    "name_int": "Solitude-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a556"
+  },
+  "type": "Feature",
+  "id": 114,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.206725358963013,
+      48.77829100349746
+    ]
+  },
+  "properties": {
+    "FID": 114,
+    "mvt_id": 427,
+    "rank": 31,
+    "name_de": "Linden-Apotheke",
+    "name_int": "Linden-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a557"
+  },
+  "type": "Feature",
+  "id": 115,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.213951230049133,
+      48.74417359486203
+    ]
+  },
+  "properties": {
+    "FID": 115,
+    "mvt_id": 313,
+    "rank": 31,
+    "name_de": "Liliencron Apotheke",
+    "name_int": "Liliencron Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a558"
+  },
+  "type": "Feature",
+  "id": 116,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.22076940536499,
+      48.82300668142664
+    ]
+  },
+  "properties": {
+    "FID": 116,
+    "mvt_id": 496,
+    "rank": 39,
+    "name_de": "Apotheke Münster",
+    "name_int": "Apotheke Münster",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a559"
+  },
+  "type": "Feature",
+  "id": 117,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.063506126403794,
+      48.79898071395988
+    ]
+  },
+  "properties": {
+    "FID": 117,
+    "mvt_id": 312,
+    "rank": 47,
+    "name_de": "Adler Apotheke",
+    "name_int": "Adler Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a55a"
+  },
+  "type": "Feature",
+  "id": 118,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.255058765411375,
+      48.758763320457554
+    ]
+  },
+  "properties": {
+    "FID": 118,
+    "mvt_id": 335,
+    "rank": 57,
+    "name_de": "Rathaus Apotheke",
+    "name_int": "Rathaus Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a55b"
+  },
+  "type": "Feature",
+  "id": 119,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168938398361208,
+      48.748704821361684
+    ]
+  },
+  "properties": {
+    "FID": 119,
+    "mvt_id": 399,
+    "rank": 80,
+    "name_de": "Fortuna Apotheke",
+    "name_int": "Fortuna Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a55c"
+  },
+  "type": "Feature",
+  "id": 120,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.170241951942446,
+      48.74727935075088
+    ]
+  },
+  "properties": {
+    "FID": 120,
+    "mvt_id": 401,
+    "rank": 82,
+    "name_de": "Filder-Apotheke",
+    "name_int": "Filder-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a55d"
+  },
+  "type": "Feature",
+  "id": 121,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.157361984252915,
+      48.84661869543958
+    ]
+  },
+  "properties": {
+    "FID": 121,
+    "mvt_id": 404,
+    "rank": 49,
+    "name_de": "Freihof-Apotheke",
+    "name_int": "Freihof-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a55e"
+  },
+  "type": "Feature",
+  "id": 122,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.159818887710555,
+      48.80953080671721
+    ]
+  },
+  "properties": {
+    "FID": 122,
+    "mvt_id": 367,
+    "rank": 43,
+    "name_de": "Apotheke Feuerbach-Mitte",
+    "name_int": "Apotheke Feuerbach-Mitte",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a55f"
+  },
+  "type": "Feature",
+  "id": 123,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.14999127387999,
+      48.7288400924445
+    ]
+  },
+  "properties": {
+    "FID": 123,
+    "mvt_id": 356,
+    "rank": 37,
+    "name_de": "Landhaus Apotheke",
+    "name_int": "Landhaus Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a560"
+  },
+  "type": "Feature",
+  "id": 124,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.255552291870115,
+      48.760839138298614
+    ]
+  },
+  "properties": {
+    "FID": 124,
+    "mvt_id": 340,
+    "rank": 59,
+    "name_de": "Apotheke im Otto-Hirsch-Center",
+    "name_int": "Apotheke im Otto-Hirsch-Center",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a561"
+  },
+  "type": "Feature",
+  "id": 125,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.156814813613877,
+      48.77864803871017
+    ]
+  },
+  "properties": {
+    "FID": 125,
+    "mvt_id": 496,
+    "rank": 44,
+    "name_de": "Dr. Lang's Apotheke",
+    "name_int": "Dr. Lang's Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a562"
+  },
+  "type": "Feature",
+  "id": 126,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.276553988456742,
+      48.80927291062045
+    ]
+  },
+  "properties": {
+    "FID": 126,
+    "mvt_id": 429,
+    "rank": 52,
+    "name_de": "Kappelberg-Apotheke",
+    "name_int": "Kappelberg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a563"
+  },
+  "type": "Feature",
+  "id": 127,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.274928569793715,
+      48.81345914216833
+    ]
+  },
+  "properties": {
+    "FID": 127,
+    "mvt_id": 431,
+    "rank": 52,
+    "name_de": "Stadt-Apotheke",
+    "name_int": "Stadt-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a564"
+  },
+  "type": "Feature",
+  "id": 128,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16987180709839,
+      48.74883569380794
+    ]
+  },
+  "properties": {
+    "FID": 128,
+    "mvt_id": 416,
+    "rank": 97,
+    "name_de": "Waldauapotheke",
+    "name_int": "Waldauapotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a565"
+  },
+  "type": "Feature",
+  "id": 129,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.14695501327513,
+      48.72615784106954
+    ]
+  },
+  "properties": {
+    "FID": 129,
+    "mvt_id": 372,
+    "rank": 40,
+    "name_de": "Sonnen-Apotheke",
+    "name_int": "Sonnen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a566"
+  },
+  "type": "Feature",
+  "id": 130,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.170531630516054,
+      48.747346557469605
+    ]
+  },
+  "properties": {
+    "FID": 130,
+    "mvt_id": 419,
+    "rank": 100,
+    "name_de": "Löwen-Apotheke",
+    "name_int": "Löwen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a567"
+  },
+  "type": "Feature",
+  "id": 131,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.252119064331053,
+      48.72969993958007
+    ]
+  },
+  "properties": {
+    "FID": 131,
+    "mvt_id": 296,
+    "rank": 42,
+    "name_de": "Stadt Apotheke MACHE",
+    "name_int": "Stadt Apotheke MACHE",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a568"
+  },
+  "type": "Feature",
+  "id": 132,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.157555103301986,
+      48.78220411221165
+    ]
+  },
+  "properties": {
+    "FID": 132,
+    "mvt_id": 533,
+    "rank": 50,
+    "name_de": "Rosenberg-Apotheke",
+    "name_int": "Rosenberg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a569"
+  },
+  "type": "Feature",
+  "id": 133,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.112338423728929,
+      48.8140455399429
+    ]
+  },
+  "properties": {
+    "FID": 133,
+    "mvt_id": 439,
+    "rank": 86,
+    "name_de": "Stadt-Apotheke Weilimdorf",
+    "name_int": "Stadt-Apotheke Weilimdorf",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a56a"
+  },
+  "type": "Feature",
+  "id": 134,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.310441017150875,
+      48.82960377025323
+    ]
+  },
+  "properties": {
+    "FID": 134,
+    "mvt_id": 364,
+    "rank": 47,
+    "name_de": "Bahnhof Apotheke Dr. Riethmüller",
+    "name_int": "Bahnhof Apotheke Dr. Riethmüller",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a56b"
+  },
+  "type": "Feature",
+  "id": 135,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.170606732368471,
+      48.74852089194217
+    ]
+  },
+  "properties": {
+    "FID": 135,
+    "mvt_id": 430,
+    "rank": 111,
+    "name_de": "Spitzweg-Apotheke",
+    "name_int": "Spitzweg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a56c"
+  },
+  "type": "Feature",
+  "id": 136,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.068178534507739,
+      48.8246984160162
+    ]
+  },
+  "properties": {
+    "FID": 136,
+    "mvt_id": 280,
+    "rank": 95,
+    "name_de": "Bahnhofapotheke",
+    "name_int": "Bahnhofapotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a56d"
+  },
+  "type": "Feature",
+  "id": 137,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.185385704040545,
+      48.830733805405366
+    ]
+  },
+  "properties": {
+    "FID": 137,
+    "mvt_id": 521,
+    "rank": 38,
+    "name_de": "Apotheke im Romeo",
+    "name_int": "Apotheke im Romeo",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a56e"
+  },
+  "type": "Feature",
+  "id": 138,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.069428443908679,
+      48.826926897800945
+    ]
+  },
+  "properties": {
+    "FID": 138,
+    "mvt_id": 281,
+    "rank": 96,
+    "name_de": "Schiller-Apotheke",
+    "name_int": "Schiller-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a56f"
+  },
+  "type": "Feature",
+  "id": 139,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.208441972732544,
+      48.785250964827064
+    ]
+  },
+  "properties": {
+    "FID": 139,
+    "mvt_id": 511,
+    "rank": 45,
+    "name_de": "Passagen Apotheke",
+    "name_int": "Passagen Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a570"
+  },
+  "type": "Feature",
+  "id": 140,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.146418571472152,
+      48.72542886676327
+    ]
+  },
+  "properties": {
+    "FID": 140,
+    "mvt_id": 389,
+    "rank": 44,
+    "name_de": "Mohren-Apotheke",
+    "name_int": "Mohren-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a571"
+  },
+  "type": "Feature",
+  "id": 141,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.186174273490922,
+      48.77430334856267
+    ]
+  },
+  "properties": {
+    "FID": 141,
+    "mvt_id": 618,
+    "rank": 52,
+    "name_de": "Charlotten-Apotheke",
+    "name_int": "Charlotten-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a572"
+  },
+  "type": "Feature",
+  "id": 142,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.277412295341508,
+      48.8089584875574
+    ]
+  },
+  "properties": {
+    "FID": 142,
+    "mvt_id": 462,
+    "rank": 68,
+    "name_de": "Rats-Apotheke",
+    "name_int": "Rats-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a573"
+  },
+  "type": "Feature",
+  "id": 143,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.220383167266846,
+      48.80651015963201
+    ]
+  },
+  "properties": {
+    "FID": 143,
+    "mvt_id": 537,
+    "rank": 33,
+    "name_de": "Quellen-Apotheke",
+    "name_int": "Quellen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a574"
+  },
+  "type": "Feature",
+  "id": 144,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.210496544837952,
+      48.746398580708615
+    ]
+  },
+  "properties": {
+    "FID": 144,
+    "mvt_id": 374,
+    "rank": 43,
+    "name_de": "Apotheke Dr. Höss Sillenbuch",
+    "name_int": "Apotheke Dr. Höss Sillenbuch",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a575"
+  },
+  "type": "Feature",
+  "id": 145,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.164534211158754,
+      48.810470526477395
+    ]
+  },
+  "properties": {
+    "FID": 145,
+    "mvt_id": 610,
+    "rank": 44,
+    "name_de": "Apotheke Am Feuerbach",
+    "name_int": "Apotheke Am Feuerbach",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a576"
+  },
+  "type": "Feature",
+  "id": 146,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.159738421440109,
+      48.779567127574765
+    ]
+  },
+  "properties": {
+    "FID": 146,
+    "mvt_id": 603,
+    "rank": 63,
+    "name_de": "Flora-Apotheke",
+    "name_int": "Flora-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a577"
+  },
+  "type": "Feature",
+  "id": 147,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.161063432693465,
+      48.809650922254725
+    ]
+  },
+  "properties": {
+    "FID": 147,
+    "mvt_id": 425,
+    "rank": 62,
+    "name_de": "Alte Apotheke",
+    "name_int": "Alte Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a578"
+  },
+  "type": "Feature",
+  "id": 148,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.163783192634584,
+      48.81073548187347
+    ]
+  },
+  "properties": {
+    "FID": 148,
+    "mvt_id": 639,
+    "rank": 47,
+    "name_de": "Avie Apotheke im Marktkauf",
+    "name_int": "Avie Apotheke im Marktkauf",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a579"
+  },
+  "type": "Feature",
+  "id": 149,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.207610487937927,
+      48.78502475474848
+    ]
+  },
+  "properties": {
+    "FID": 149,
+    "mvt_id": 555,
+    "rank": 56,
+    "name_de": "Rossberg Apotheke",
+    "name_int": "Rossberg Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a57a"
+  },
+  "type": "Feature",
+  "id": 150,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.302737712860106,
+      48.74016907963559
+    ]
+  },
+  "properties": {
+    "FID": 150,
+    "mvt_id": 439,
+    "rank": 57,
+    "name_de": "Stadt-Apotheke",
+    "name_int": "Stadt-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a57b"
+  },
+  "type": "Feature",
+  "id": 151,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.315118789672848,
+      48.83285608379414
+    ]
+  },
+  "properties": {
+    "FID": 151,
+    "mvt_id": 450,
+    "rank": 116,
+    "name_de": "Apotheke Marktgasse",
+    "name_int": "Apotheke Marktgasse",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a57c"
+  },
+  "type": "Feature",
+  "id": 152,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.314169287681578,
+      48.83068083557694
+    ]
+  },
+  "properties": {
+    "FID": 152,
+    "mvt_id": 468,
+    "rank": 134,
+    "name_de": "Central-Apotheke",
+    "name_int": "Central-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a57d"
+  },
+  "type": "Feature",
+  "id": 153,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.156396389007554,
+      48.775211911282426
+    ]
+  },
+  "properties": {
+    "FID": 153,
+    "mvt_id": 739,
+    "rank": 50,
+    "name_de": "Feinstoff-Apotheke",
+    "name_int": "Feinstoff-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a57e"
+  },
+  "type": "Feature",
+  "id": 154,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.146230816841111,
+      48.72882239996223
+    ]
+  },
+  "properties": {
+    "FID": 154,
+    "mvt_id": 472,
+    "rank": 67,
+    "name_de": "Filderbahn-Apotheke",
+    "name_int": "Filderbahn-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a57f"
+  },
+  "type": "Feature",
+  "id": 155,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.207487106323242,
+      48.786177001705134
+    ]
+  },
+  "properties": {
+    "FID": 155,
+    "mvt_id": 638,
+    "rank": 81,
+    "name_de": "Ostend-Apotheke",
+    "name_int": "Ostend-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a580"
+  },
+  "type": "Feature",
+  "id": 156,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.181984663009644,
+      48.790753917751175
+    ]
+  },
+  "properties": {
+    "FID": 156,
+    "mvt_id": 847,
+    "rank": 53,
+    "name_de": "Gesundhausapotheke",
+    "name_int": "Gesundhausapotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a581"
+  },
+  "type": "Feature",
+  "id": 157,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.169710874557497,
+      48.83200153325749
+    ]
+  },
+  "properties": {
+    "FID": 157,
+    "mvt_id": 665,
+    "rank": 78,
+    "name_de": "Wiemannsche Apotheke",
+    "name_int": "Wiemannsche Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a582"
+  },
+  "type": "Feature",
+  "id": 158,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16739881038666,
+      48.76457680862487
+    ]
+  },
+  "properties": {
+    "FID": 158,
+    "mvt_id": 860,
+    "rank": 51,
+    "name_de": "Mörike-Apotheke",
+    "name_int": "Mörike-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a583"
+  },
+  "type": "Feature",
+  "id": 159,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.157168865203841,
+      48.771559884305354
+    ]
+  },
+  "properties": {
+    "FID": 159,
+    "mvt_id": 781,
+    "rank": 56,
+    "name_de": "Apotheke 55",
+    "name_int": "Apotheke 55",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a584"
+  },
+  "type": "Feature",
+  "id": 160,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.172677397727968,
+      48.76345589033909
+    ]
+  },
+  "properties": {
+    "FID": 160,
+    "mvt_id": 882,
+    "rank": 53,
+    "name_de": "Hubertus Apotheke",
+    "name_int": "Hubertus Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a585"
+  },
+  "type": "Feature",
+  "id": 161,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.154942631721482,
+      48.77487252791022
+    ]
+  },
+  "properties": {
+    "FID": 161,
+    "mvt_id": 805,
+    "rank": 59,
+    "name_de": "Phönix-Apotheke",
+    "name_int": "Phönix-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a586"
+  },
+  "type": "Feature",
+  "id": 162,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.201843738555926,
+      48.78527570649255
+    ]
+  },
+  "properties": {
+    "FID": 162,
+    "mvt_id": 1001,
+    "rank": 59,
+    "name_de": "Anemonen-Apotheke",
+    "name_int": "Anemonen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a587"
+  },
+  "type": "Feature",
+  "id": 163,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.307968020439144,
+      48.74255696943257
+    ]
+  },
+  "properties": {
+    "FID": 163,
+    "mvt_id": 546,
+    "rank": 102,
+    "name_de": "Rats-Apotheke",
+    "name_int": "Rats-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a588"
+  },
+  "type": "Feature",
+  "id": 164,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.305258989334103,
+      48.73966318619749
+    ]
+  },
+  "properties": {
+    "FID": 164,
+    "mvt_id": 550,
+    "rank": 106,
+    "name_de": "Pliensau-Apotheke",
+    "name_int": "Pliensau-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a589"
+  },
+  "type": "Feature",
+  "id": 165,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.169968366622925,
+      48.83219575056843
+    ]
+  },
+  "properties": {
+    "FID": 165,
+    "mvt_id": 714,
+    "rank": 94,
+    "name_de": "Stadt-Apotheke",
+    "name_int": "Stadt-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a58a"
+  },
+  "type": "Feature",
+  "id": 166,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168702363967896,
+      48.82987215590953
+    ]
+  },
+  "properties": {
+    "FID": 166,
+    "mvt_id": 724,
+    "rank": 98,
+    "name_de": "Hirsch Apotheke",
+    "name_int": "Hirsch Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a58b"
+  },
+  "type": "Feature",
+  "id": 167,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.158118367195115,
+      48.7708103551112
+    ]
+  },
+  "properties": {
+    "FID": 167,
+    "mvt_id": 840,
+    "rank": 64,
+    "name_de": "Westend Apotheke",
+    "name_int": "Westend Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a58c"
+  },
+  "type": "Feature",
+  "id": 168,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.178744554519655,
+      48.766850392535574
+    ]
+  },
+  "properties": {
+    "FID": 168,
+    "mvt_id": 930,
+    "rank": 57,
+    "name_de": "Markus-Apotheke",
+    "name_int": "Markus-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a58d"
+  },
+  "type": "Feature",
+  "id": 169,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.171652793884277,
+      48.83193090859413
+    ]
+  },
+  "properties": {
+    "FID": 169,
+    "mvt_id": 740,
+    "rank": 111,
+    "name_de": "Trauben-Apotheke",
+    "name_int": "Trauben-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a58e"
+  },
+  "type": "Feature",
+  "id": 170,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.220721125602722,
+      48.801570744677655
+    ]
+  },
+  "properties": {
+    "FID": 170,
+    "mvt_id": 918,
+    "rank": 65,
+    "name_de": "Carré-Apotheke",
+    "name_int": "Carré-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a58f"
+  },
+  "type": "Feature",
+  "id": 171,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.174930453300478,
+      48.83025707493351
+    ]
+  },
+  "properties": {
+    "FID": 171,
+    "mvt_id": 776,
+    "rank": 147,
+    "name_de": "Apotheke am Kelterplatz",
+    "name_int": "Apotheke am Kelterplatz",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a590"
+  },
+  "type": "Feature",
+  "id": 172,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16488826274872,
+      48.76402872867709
+    ]
+  },
+  "properties": {
+    "FID": 172,
+    "mvt_id": 1023,
+    "rank": 64,
+    "name_de": "Marien-Apotheke",
+    "name_int": "Marien-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a591"
+  },
+  "type": "Feature",
+  "id": 173,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.30886924266815,
+      48.74019384351932
+    ]
+  },
+  "properties": {
+    "FID": 173,
+    "mvt_id": 614,
+    "rank": 170,
+    "name_de": "Apotheke am Theater",
+    "name_int": "Apotheke am Theater",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a592"
+  },
+  "type": "Feature",
+  "id": 174,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.307823181152342,
+      48.74165135347069
+    ]
+  },
+  "properties": {
+    "FID": 174,
+    "mvt_id": 617,
+    "rank": 173,
+    "name_de": "Apotheke am Fischbrunnen",
+    "name_int": "Apotheke am Fischbrunnen",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a593"
+  },
+  "type": "Feature",
+  "id": 175,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.163289666175844,
+      48.780673546845506
+    ]
+  },
+  "properties": {
+    "FID": 175,
+    "mvt_id": 1131,
+    "rank": 82,
+    "name_de": "Apotheke am Diakonie-Klinikum",
+    "name_int": "Apotheke am Diakonie-Klinikum",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a594"
+  },
+  "type": "Feature",
+  "id": 176,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.31210398674011,
+      48.740285823552085
+    ]
+  },
+  "properties": {
+    "FID": 176,
+    "mvt_id": 622,
+    "rank": 178,
+    "name_de": "Apotheke am Ottilienplatz",
+    "name_int": "Apotheke am Ottilienplatz",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a595"
+  },
+  "type": "Feature",
+  "id": 177,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.109098315238938,
+      48.73098083685261
+    ]
+  },
+  "properties": {
+    "FID": 177,
+    "mvt_id": 698,
+    "rank": 138,
+    "name_de": "Apotheke in der Schwabengalerie",
+    "name_int": "Apotheke in der Schwabengalerie",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a596"
+  },
+  "type": "Feature",
+  "id": 178,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.160645008087142,
+      48.768494522053615
+    ]
+  },
+  "properties": {
+    "FID": 178,
+    "mvt_id": 973,
+    "rank": 86,
+    "name_de": "Reinsburg-Apotheke",
+    "name_int": "Reinsburg-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a597"
+  },
+  "type": "Feature",
+  "id": 179,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.11080420017241,
+      48.73096314512356
+    ]
+  },
+  "properties": {
+    "FID": 179,
+    "mvt_id": 705,
+    "rank": 145,
+    "name_de": "Apotheke am Markt",
+    "name_int": "Apotheke am Markt",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a598"
+  },
+  "type": "Feature",
+  "id": 180,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.162490367889388,
+      48.776604773174874
+    ]
+  },
+  "properties": {
+    "FID": 180,
+    "mvt_id": 988,
+    "rank": 88,
+    "name_de": "Schloss-Apotheke",
+    "name_int": "Schloss-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a599"
+  },
+  "type": "Feature",
+  "id": 181,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.111651778221116,
+      48.72965747833825
+    ]
+  },
+  "properties": {
+    "FID": 181,
+    "mvt_id": 715,
+    "rank": 155,
+    "name_de": "Schwabenland-Apotheke",
+    "name_int": "Schwabenland-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a59a"
+  },
+  "type": "Feature",
+  "id": 182,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.226316213607788,
+      48.80313600536068
+    ]
+  },
+  "properties": {
+    "FID": 182,
+    "mvt_id": 1026,
+    "rank": 81,
+    "name_de": "Seelberg Apotheke",
+    "name_int": "Seelberg Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a59b"
+  },
+  "type": "Feature",
+  "id": 183,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.219492673873901,
+      48.80210428145906
+    ]
+  },
+  "properties": {
+    "FID": 183,
+    "mvt_id": 1032,
+    "rank": 83,
+    "name_de": "Apotheke Vita",
+    "name_int": "Apotheke Vita",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a59c"
+  },
+  "type": "Feature",
+  "id": 184,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.218569993972778,
+      48.805238253790606
+    ]
+  },
+  "properties": {
+    "FID": 184,
+    "mvt_id": 1065,
+    "rank": 89,
+    "name_de": "Scarabaeus-Apotheke",
+    "name_int": "Scarabaeus-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a59d"
+  },
+  "type": "Feature",
+  "id": 185,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.161020517349227,
+      48.771485638988224
+    ]
+  },
+  "properties": {
+    "FID": 185,
+    "mvt_id": 1081,
+    "rank": 104,
+    "name_de": "Engel-Apotheke",
+    "name_int": "Engel-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a59e"
+  },
+  "type": "Feature",
+  "id": 186,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.213656187057495,
+      48.805390177573685
+    ]
+  },
+  "properties": {
+    "FID": 186,
+    "mvt_id": 1186,
+    "rank": 148,
+    "name_de": "Kron-Apotheke",
+    "name_int": "Kron-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a59f"
+  },
+  "type": "Feature",
+  "id": 187,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.217395186424255,
+      48.80270141192075
+    ]
+  },
+  "properties": {
+    "FID": 187,
+    "mvt_id": 1240,
+    "rank": 202,
+    "name_de": "Apotheke am Bahnhof",
+    "name_int": "Apotheke am Bahnhof",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a0"
+  },
+  "type": "Feature",
+  "id": 188,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.21800673007965,
+      48.80371192419859
+    ]
+  },
+  "properties": {
+    "FID": 188,
+    "mvt_id": 1249,
+    "rank": 211,
+    "name_de": "Central Apotheke",
+    "name_int": "Central Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a1"
+  },
+  "type": "Feature",
+  "id": 189,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.216139912605286,
+      48.803736656761316
+    ]
+  },
+  "properties": {
+    "FID": 189,
+    "mvt_id": 1250,
+    "rank": 212,
+    "name_de": "Kur Apotheke",
+    "name_int": "Kur Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a2"
+  },
+  "type": "Feature",
+  "id": 190,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.178465604782106,
+      48.77944693998737
+    ]
+  },
+  "properties": {
+    "FID": 190,
+    "mvt_id": 1694,
+    "rank": 183,
+    "name_de": "Apotheke Königsbau",
+    "name_int": "Apotheke Königsbau",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a3"
+  },
+  "type": "Feature",
+  "id": 191,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.18138921260834,
+      48.782211181689355
+    ]
+  },
+  "properties": {
+    "FID": 191,
+    "mvt_id": 1704,
+    "rank": 187,
+    "name_de": "Bahnhof-Apotheke",
+    "name_int": "Bahnhof-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a4"
+  },
+  "type": "Feature",
+  "id": 192,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182236790657045,
+      48.7827802713775
+    ]
+  },
+  "properties": {
+    "FID": 192,
+    "mvt_id": 1844,
+    "rank": 235,
+    "name_de": "UApotheke",
+    "name_int": "UApotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a5"
+  },
+  "type": "Feature",
+  "id": 193,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.173058271408081,
+      48.77134068352885
+    ]
+  },
+  "properties": {
+    "FID": 193,
+    "mvt_id": 1740,
+    "rank": 125,
+    "name_de": "Paulinen-Apotheke",
+    "name_int": "Paulinen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a6"
+  },
+  "type": "Feature",
+  "id": 194,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.181255102157595,
+      48.78352962186958
+    ]
+  },
+  "properties": {
+    "FID": 194,
+    "mvt_id": 1935,
+    "rank": 280,
+    "name_de": "Apotheke im Hauptbahnhof",
+    "name_int": "Apotheke im Hauptbahnhof",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a7"
+  },
+  "type": "Feature",
+  "id": 195,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.174120426177979,
+      48.7741407247067
+    ]
+  },
+  "properties": {
+    "FID": 195,
+    "mvt_id": 2314,
+    "rank": 220,
+    "name_de": "Internationale Apotheke",
+    "name_int": "Internationale Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a8"
+  },
+  "type": "Feature",
+  "id": 196,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.171990752220154,
+      48.774115977552
+    ]
+  },
+  "properties": {
+    "FID": 196,
+    "mvt_id": 2376,
+    "rank": 250,
+    "name_de": "Rotebühl Apotheke",
+    "name_int": "Rotebühl Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5a9"
+  },
+  "type": "Feature",
+  "id": 197,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.172022938728333,
+      48.77517655895488
+    ]
+  },
+  "properties": {
+    "FID": 197,
+    "mvt_id": 2388,
+    "rank": 256,
+    "name_de": "Apotheke Stadtmitte",
+    "name_int": "Apotheke Stadtmitte",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5aa"
+  },
+  "type": "Feature",
+  "id": 198,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.174973368644716,
+      48.7770148469773
+    ]
+  },
+  "properties": {
+    "FID": 198,
+    "mvt_id": 2419,
+    "rank": 271,
+    "name_de": "Kreuser'sche Apotheke",
+    "name_int": "Kreuser'sche Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5ab"
+  },
+  "type": "Feature",
+  "id": 199,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.167731404304506,
+      48.77765823188188
+    ]
+  },
+  "properties": {
+    "FID": 199,
+    "mvt_id": 2439,
+    "rank": 281,
+    "name_de": "Apotheke am Berliner Platz",
+    "name_int": "Apotheke am Berliner Platz",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5ac"
+  },
+  "type": "Feature",
+  "id": 200,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.179565310478212,
+      48.774579100853664
+    ]
+  },
+  "properties": {
+    "FID": 200,
+    "mvt_id": 2511,
+    "rank": 317,
+    "name_de": "Schwanen-Apotheke",
+    "name_int": "Schwanen-Apotheke",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f3eb55855c6cd6a4a5ad"
+  },
+  "type": "Feature",
+  "id": 201,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17837977409363,
+      48.77758046051837
+    ]
+  },
+  "properties": {
+    "FID": 201,
+    "mvt_id": 2614,
+    "rank": 369,
+    "name_de": "Hof-Apotheke Stuttgart",
+    "name_int": "Hof-Apotheke Stuttgart",
+    "subclass": "pharmacy",
+    "class": "pharmacy"
+  }
+}]
