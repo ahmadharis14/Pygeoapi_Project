@@ -1,0 +1,331 @@
+[{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5b2"
+  },
+  "type": "Feature",
+  "id": 0,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.21103835105896,
+      48.70936751936556
+    ]
+  },
+  "properties": {
+    "FID": 0,
+    "mvt_id": 43,
+    "rank": 3,
+    "name_de": "Institut für Bienenkunde",
+    "name_int": "Institut für Bienenkunde",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5b3"
+  },
+  "type": "Feature",
+  "id": 1,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.212089776992798,
+      48.71338156718384
+    ]
+  },
+  "properties": {
+    "FID": 1,
+    "mvt_id": 44,
+    "rank": 3,
+    "name_de": "Universität Hohenheim",
+    "name_int": "University of Hohenheim",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5b4"
+  },
+  "type": "Feature",
+  "id": 2,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.103465676307664,
+      48.745401063464975
+    ]
+  },
+  "properties": {
+    "FID": 2,
+    "mvt_id": 51,
+    "rank": 3,
+    "name_de": "Universität Stuttgart",
+    "name_int": "Universität Stuttgart",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5b5"
+  },
+  "type": "Feature",
+  "id": 3,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.167677760124207,
+      48.784346118394836
+    ]
+  },
+  "properties": {
+    "FID": 3,
+    "mvt_id": 85,
+    "rank": 4,
+    "name_de": "DHBW Stuttgart",
+    "name_int": "DHBW Stuttgart",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5b6"
+  },
+  "type": "Feature",
+  "id": 4,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.101234078407275,
+      48.74149216147863
+    ]
+  },
+  "properties": {
+    "FID": 4,
+    "mvt_id": 140,
+    "rank": 9,
+    "name_de": "Hochschule der Medien",
+    "name_int": "Stuttgart Media University",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5b7"
+  },
+  "type": "Feature",
+  "id": 5,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.211939573287964,
+      48.81386538232038
+    ]
+  },
+  "properties": {
+    "FID": 5,
+    "mvt_id": 125,
+    "rank": 7,
+    "name_de": "Macromedia GmbH",
+    "name_int": "Macromedia GmbH",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5b8"
+  },
+  "type": "Feature",
+  "id": 6,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17736053466797,
+      48.809541405158576
+    ]
+  },
+  "properties": {
+    "FID": 6,
+    "mvt_id": 167,
+    "rank": 9,
+    "name_de": "AKAD",
+    "name_int": "AKAD",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5b9"
+  },
+  "type": "Feature",
+  "id": 7,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.174651503562929,
+      48.80067325940777
+    ]
+  },
+  "properties": {
+    "FID": 7,
+    "mvt_id": 167,
+    "rank": 9,
+    "name_de": "Staatliche Akademie der bildenden Künste",
+    "name_int": "Staatliche Akademie der bildenden Künste",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5ba"
+  },
+  "type": "Feature",
+  "id": 8,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.159743785858138,
+      48.7707184309492
+    ]
+  },
+  "properties": {
+    "FID": 8,
+    "mvt_id": 171,
+    "rank": 8,
+    "name_de": "FOM Hochschule",
+    "name_int": "FOM Hochschule",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5bb"
+  },
+  "type": "Feature",
+  "id": 9,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2034959793091,
+      48.711544489802705
+    ]
+  },
+  "properties": {
+    "FID": 9,
+    "mvt_id": 138,
+    "rank": 11,
+    "name_de": "Steinbeis Institute of Management and Technology",
+    "name_int": "Steinbeis Institute of Management and Technology",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5bc"
+  },
+  "type": "Feature",
+  "id": 10,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.186319112777728,
+      48.77837230876919
+    ]
+  },
+  "properties": {
+    "FID": 10,
+    "mvt_id": 247,
+    "rank": 12,
+    "name_de": "Hochschule für Musik und Darstellende Kunst",
+    "name_int": "Hochschule für Musik und Darstellende Kunst",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5bd"
+  },
+  "type": "Feature",
+  "id": 11,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.172060489654543,
+      48.777294119459704
+    ]
+  },
+  "properties": {
+    "FID": 11,
+    "mvt_id": 289,
+    "rank": 14,
+    "name_de": "Staatliches Seminar für Didaktik und Lehrerbildung (Abteilung Gymnasien)",
+    "name_int": "Staatliches Seminar für Didaktik und Lehrerbildung (Abteilung Gymnasien)",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5be"
+  },
+  "type": "Feature",
+  "id": 12,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.180337786674501,
+      48.76987342788398
+    ]
+  },
+  "properties": {
+    "FID": 12,
+    "mvt_id": 304,
+    "rank": 15,
+    "name_de": "EBC Hochschule Stuttgart",
+    "name_int": "EBC Hochschule Stuttgart",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5bf"
+  },
+  "type": "Feature",
+  "id": 13,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.193308949470538,
+      48.78282268774181
+    ]
+  },
+  "properties": {
+    "FID": 13,
+    "mvt_id": 368,
+    "rank": 18,
+    "name_de": "Freie Hochschule Stuttgart",
+    "name_int": "Freie Hochschule Stuttgart",
+    "subclass": "university",
+    "class": "college"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f40455855c6cd6a4a5c0"
+  },
+  "type": "Feature",
+  "id": 14,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.172554016113283,
+      48.78032006091185
+    ]
+  },
+  "properties": {
+    "FID": 14,
+    "mvt_id": 318,
+    "rank": 16,
+    "name_de": "Hochschule für Technik",
+    "name_int": "Hochschule für Technik",
+    "subclass": "university",
+    "class": "college"
+  }
+}]
