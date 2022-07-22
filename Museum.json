@@ -1,0 +1,1497 @@
+[{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a476"
+  },
+  "type": "Feature",
+  "id": 0,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.234046339988724,
+      48.78816332851385
+    ]
+  },
+  "properties": {
+    "FID": 0,
+    "mvt_id": 35,
+    "rank": 2,
+    "name_de": "Mercedes-Benz Museum",
+    "name_int": "Mercedes-Benz Museum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a477"
+  },
+  "type": "Feature",
+  "id": 1,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.197820425033587,
+      48.71282230988061
+    ]
+  },
+  "properties": {
+    "FID": 1,
+    "mvt_id": 47,
+    "rank": 3,
+    "name_de": "Deutsches Landwirtschaftsmuseum",
+    "name_int": "Deutsches Landwirtschaftsmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a478"
+  },
+  "type": "Feature",
+  "id": 2,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.198592901229876,
+      48.7127479777457
+    ]
+  },
+  "properties": {
+    "FID": 2,
+    "mvt_id": 52,
+    "rank": 4,
+    "name_de": "Deutsches Landwirtschaftsmuseum",
+    "name_int": "Deutsches Landwirtschaftsmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a479"
+  },
+  "type": "Feature",
+  "id": 3,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.186088442802445,
+      48.744484886567065
+    ]
+  },
+  "properties": {
+    "FID": 3,
+    "mvt_id": 89,
+    "rank": 5,
+    "name_de": "Haus des Waldes",
+    "name_int": "Haus des Waldes",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a47a"
+  },
+  "type": "Feature",
+  "id": 4,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.086975455284122,
+      48.78594372684979
+    ]
+  },
+  "properties": {
+    "FID": 4,
+    "mvt_id": 67,
+    "rank": 6,
+    "name_de": "Graevenitz-Museum",
+    "name_int": "Graevenitz-Museum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a47b"
+  },
+  "type": "Feature",
+  "id": 5,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.197863340377825,
+      48.712432949859696
+    ]
+  },
+  "properties": {
+    "FID": 5,
+    "mvt_id": 67,
+    "rank": 5,
+    "name_de": "Deutsches Landwirtschaftsmuseum",
+    "name_int": "Deutsches Landwirtschaftsmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a47c"
+  },
+  "type": "Feature",
+  "id": 6,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.270626306533813,
+      48.78326805740287
+    ]
+  },
+  "properties": {
+    "FID": 6,
+    "mvt_id": 55,
+    "rank": 4,
+    "name_de": "Heimatgeschichtliche Ausstellung Untertürkheim-Rotenberg",
+    "name_int": "Heimatgeschichtliche Ausstellung Untertürkheim-Rotenberg",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a47d"
+  },
+  "type": "Feature",
+  "id": 7,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.197224974632281,
+      48.712528520325684
+    ]
+  },
+  "properties": {
+    "FID": 7,
+    "mvt_id": 77,
+    "rank": 6,
+    "name_de": "Deutsches Landwirtschaftsmuseum",
+    "name_int": "Deutsches Landwirtschaftsmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a47e"
+  },
+  "type": "Feature",
+  "id": 8,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.116737246513352,
+      48.69275572735917
+    ]
+  },
+  "properties": {
+    "FID": 8,
+    "mvt_id": 92,
+    "rank": 19,
+    "name_de": "Stadtarchiv",
+    "name_int": "Stadtarchiv",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a47f"
+  },
+  "type": "Feature",
+  "id": 9,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.144862890243514,
+      48.691810262305424
+    ]
+  },
+  "properties": {
+    "FID": 9,
+    "mvt_id": 121,
+    "rank": 9,
+    "name_de": "Leinfelder Haus",
+    "name_int": "Leinfelder Haus",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a480"
+  },
+  "type": "Feature",
+  "id": 10,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.27912354469301,
+      48.7763714538266
+    ]
+  },
+  "properties": {
+    "FID": 10,
+    "mvt_id": 118,
+    "rank": 19,
+    "name_de": "Weinbaumuseum Stuttgart",
+    "name_int": "Weinbaumuseum Stuttgart",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a481"
+  },
+  "type": "Feature",
+  "id": 11,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.219846725463867,
+      48.78574226132935
+    ]
+  },
+  "properties": {
+    "FID": 11,
+    "mvt_id": 125,
+    "rank": 7,
+    "name_de": "Schweinemuseum",
+    "name_int": "Schweinemuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a482"
+  },
+  "type": "Feature",
+  "id": 12,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.134498834609987,
+      48.72735390223294
+    ]
+  },
+  "properties": {
+    "FID": 12,
+    "mvt_id": 134,
+    "rank": 8,
+    "name_de": "Gottlob-Auwärter-Museum",
+    "name_int": "Gottlob-Auwärter-Museum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a483"
+  },
+  "type": "Feature",
+  "id": 13,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.031732678413395,
+      48.865854591421225
+    ]
+  },
+  "properties": {
+    "FID": 13,
+    "mvt_id": 100,
+    "rank": 41,
+    "name_de": "Etterhof",
+    "name_int": "Etterhof",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a484"
+  },
+  "type": "Feature",
+  "id": 14,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.152534008026109,
+      48.834310904896384
+    ]
+  },
+  "properties": {
+    "FID": 14,
+    "mvt_id": 172,
+    "rank": 13,
+    "name_de": "Porsche Museum",
+    "name_int": "Porsche Museum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a485"
+  },
+  "type": "Feature",
+  "id": 15,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.293441176414506,
+      48.75948827510775
+    ]
+  },
+  "properties": {
+    "FID": 15,
+    "mvt_id": 188,
+    "rank": 23,
+    "name_de": "Schulmuseum Sulzgries",
+    "name_int": "Schulmuseum Sulzgries",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a486"
+  },
+  "type": "Feature",
+  "id": 16,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.190642833709735,
+      48.86686030187768
+    ]
+  },
+  "properties": {
+    "FID": 16,
+    "mvt_id": 198,
+    "rank": 25,
+    "name_de": "Philipp-Matthäus-Hahn-Museum",
+    "name_int": "Philipp-Matthäus-Hahn-Museum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a487"
+  },
+  "type": "Feature",
+  "id": 17,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17783796787262,
+      48.80162021190272
+    ]
+  },
+  "properties": {
+    "FID": 17,
+    "mvt_id": 203,
+    "rank": 11,
+    "name_de": "Deutscher Werkbund",
+    "name_int": "Deutscher Werkbund",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a488"
+  },
+  "type": "Feature",
+  "id": 18,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.230382442474381,
+      48.827943984917766
+    ]
+  },
+  "properties": {
+    "FID": 18,
+    "mvt_id": 179,
+    "rank": 12,
+    "name_de": "Turmuhrenarchiv und Turmuhrenmagazin",
+    "name_int": "Turmuhrenarchiv und Turmuhrenmagazin",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a489"
+  },
+  "type": "Feature",
+  "id": 19,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.229272007942216,
+      48.84327548412604
+    ]
+  },
+  "properties": {
+    "FID": 19,
+    "mvt_id": 222,
+    "rank": 36,
+    "name_de": "Schutzbauten Stuttgart: Pionierstollen Mühlhausen",
+    "name_int": "Schutzbauten Stuttgart: Pionierstollen Mühlhausen",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a48a"
+  },
+  "type": "Feature",
+  "id": 20,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.188330769538897,
+      48.86714966044013
+    ]
+  },
+  "properties": {
+    "FID": 20,
+    "mvt_id": 240,
+    "rank": 40,
+    "name_de": "Schulmuseum Nordwürttemberg",
+    "name_int": "Schulmuseum Nordwürttemberg",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a48b"
+  },
+  "type": "Feature",
+  "id": 21,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.185648560524005,
+      48.81048112472011
+    ]
+  },
+  "properties": {
+    "FID": 21,
+    "mvt_id": 249,
+    "rank": 12,
+    "name_de": "Polizeimuseum Stuttgart",
+    "name_int": "Polizeimuseum Stuttgart",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a48c"
+  },
+  "type": "Feature",
+  "id": 22,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.205051660537737,
+      48.711629442837086
+    ]
+  },
+  "properties": {
+    "FID": 22,
+    "mvt_id": 187,
+    "rank": 21,
+    "name_de": "Deutsches Landwirtschaftsmuseum",
+    "name_int": "Deutsches Landwirtschaftsmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a48d"
+  },
+  "type": "Feature",
+  "id": 23,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.167667031288147,
+      48.794040557437896
+    ]
+  },
+  "properties": {
+    "FID": 23,
+    "mvt_id": 236,
+    "rank": 14,
+    "name_de": "Theodor-Heuss-Haus",
+    "name_int": "Theodor-Heuss-Haus",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a48e"
+  },
+  "type": "Feature",
+  "id": 24,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.177682399749758,
+      48.79980755958122
+    ]
+  },
+  "properties": {
+    "FID": 24,
+    "mvt_id": 239,
+    "rank": 14,
+    "name_de": "Weißenhofmuseum",
+    "name_int": "Weißenhofmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a48f"
+  },
+  "type": "Feature",
+  "id": 25,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.089947342872623,
+      48.853315037699836
+    ]
+  },
+  "properties": {
+    "FID": 25,
+    "mvt_id": 153,
+    "rank": 30,
+    "name_de": "Heimatmuseum Münchingen",
+    "name_int": "Heimatmuseum Münchingen",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a490"
+  },
+  "type": "Feature",
+  "id": 26,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.190170764923113,
+      48.80533718095744
+    ]
+  },
+  "properties": {
+    "FID": 26,
+    "mvt_id": 302,
+    "rank": 14,
+    "name_de": "Staatliches Museum für Naturkunde am Löwentor",
+    "name_int": "Staatliches Museum für Naturkunde am Löwentor",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a491"
+  },
+  "type": "Feature",
+  "id": 27,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.106432199478135,
+      48.745164061776244
+    ]
+  },
+  "properties": {
+    "FID": 27,
+    "mvt_id": 264,
+    "rank": 21,
+    "name_de": "Computermuseum der Informatik",
+    "name_int": "Computermuseum der Informatik",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a492"
+  },
+  "type": "Feature",
+  "id": 28,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.07476603984833,
+      48.877942950867464
+    ]
+  },
+  "properties": {
+    "FID": 28,
+    "mvt_id": 235,
+    "rank": 38,
+    "name_de": "Ortsmuseum \"Im Alten Pfarrhaus\"",
+    "name_int": "Ortsmuseum \"Im Alten Pfarrhaus\"",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a493"
+  },
+  "type": "Feature",
+  "id": 29,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.186737537384051,
+      48.85852111615459
+    ]
+  },
+  "properties": {
+    "FID": 29,
+    "mvt_id": 248,
+    "rank": 23,
+    "name_de": "Kleihues-Bau",
+    "name_int": "Kleihues-Bau",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a494"
+  },
+  "type": "Feature",
+  "id": 30,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.064053297042834,
+      48.799196260499386
+    ]
+  },
+  "properties": {
+    "FID": 30,
+    "mvt_id": 180,
+    "rank": 18,
+    "name_de": "Rebmann-Haus",
+    "name_int": "Rebmann-Haus",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a495"
+  },
+  "type": "Feature",
+  "id": 31,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.307914376258848,
+      48.73595196607567
+    ]
+  },
+  "properties": {
+    "FID": 31,
+    "mvt_id": 228,
+    "rank": 18,
+    "name_de": "Villa Merkel, Galerien der Stadt Esslingen",
+    "name_int": "Villa Merkel, Galerien der Stadt Esslingen",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a496"
+  },
+  "type": "Feature",
+  "id": 32,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.21604335308075,
+      48.70099149961553
+    ]
+  },
+  "properties": {
+    "FID": 32,
+    "mvt_id": 164,
+    "rank": 54,
+    "name_de": "Heimatmuseum Plieningen",
+    "name_int": "Heimatmuseum Plieningen",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a497"
+  },
+  "type": "Feature",
+  "id": 33,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.219149351119995,
+      48.79937293730003
+    ]
+  },
+  "properties": {
+    "FID": 33,
+    "mvt_id": 282,
+    "rank": 17,
+    "name_de": "Straßenbahnwelt Stuttgart",
+    "name_int": "Straßenbahnwelt Stuttgart",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a498"
+  },
+  "type": "Feature",
+  "id": 34,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16838049888611,
+      48.81335316593511
+    ]
+  },
+  "properties": {
+    "FID": 34,
+    "mvt_id": 343,
+    "rank": 20,
+    "name_de": "Schutzbauten Stuttgart",
+    "name_int": "Schutzbauten Stuttgart",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a499"
+  },
+  "type": "Feature",
+  "id": 35,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.205738306045548,
+      48.80050365408803
+    ]
+  },
+  "properties": {
+    "FID": 35,
+    "mvt_id": 397,
+    "rank": 18,
+    "name_de": "Staatliches Museum für Naturkunde Stuttgart",
+    "name_int": "Staatliches Museum für Naturkunde Stuttgart",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a49a"
+  },
+  "type": "Feature",
+  "id": 36,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168042540550232,
+      48.81421509946682
+    ]
+  },
+  "properties": {
+    "FID": 36,
+    "mvt_id": 369,
+    "rank": 22,
+    "name_de": "Spitzbunker Feuerbach",
+    "name_int": "Spitzbunker Feuerbach",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a49b"
+  },
+  "type": "Feature",
+  "id": 37,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.188395142555255,
+      48.77979336225268
+    ]
+  },
+  "properties": {
+    "FID": 37,
+    "mvt_id": 437,
+    "rank": 22,
+    "name_de": "Haus der Geschichte Baden-Württemberg",
+    "name_int": "Haus der Geschichte Baden-Württemberg",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a49c"
+  },
+  "type": "Feature",
+  "id": 38,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.203281402587908,
+      48.77470637063098
+    ]
+  },
+  "properties": {
+    "FID": 38,
+    "mvt_id": 353,
+    "rank": 23,
+    "name_de": "Gablenberger Muse-O",
+    "name_int": "Gablenberger Muse-O",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a49d"
+  },
+  "type": "Feature",
+  "id": 39,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.308627843856808,
+      48.73586351611421
+    ]
+  },
+  "properties": {
+    "FID": 39,
+    "mvt_id": 287,
+    "rank": 26,
+    "name_de": "Bahnwärterhaus",
+    "name_int": "Bahnwärterhaus",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a49e"
+  },
+  "type": "Feature",
+  "id": 40,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182322621345522,
+      48.80979223428341
+    ]
+  },
+  "properties": {
+    "FID": 40,
+    "mvt_id": 423,
+    "rank": 26,
+    "name_de": "Schutzbauten Stuttgart: Hochbunker Pragsattel",
+    "name_int": "Schutzbauten Stuttgart: Hochbunker Pragsattel",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a49f"
+  },
+  "type": "Feature",
+  "id": 41,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.168305397033693,
+      48.81343794693961
+    ]
+  },
+  "properties": {
+    "FID": 41,
+    "mvt_id": 430,
+    "rank": 26,
+    "name_de": "Tiefbunker Feuerbach",
+    "name_int": "Tiefbunker Feuerbach",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a0"
+  },
+  "type": "Feature",
+  "id": 42,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.189859628677384,
+      48.79763441051591
+    ]
+  },
+  "properties": {
+    "FID": 42,
+    "mvt_id": 534,
+    "rank": 26,
+    "name_de": "Gläsernes Büro Rosentein",
+    "name_int": "Gläsernes Büro Rosentein",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a1"
+  },
+  "type": "Feature",
+  "id": 43,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.254983663558958,
+      48.75845565361434
+    ]
+  },
+  "properties": {
+    "FID": 43,
+    "mvt_id": 268,
+    "rank": 32,
+    "name_de": "Heimatstube im Alten Haus",
+    "name_int": "Heimatstube im Alten Haus",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a2"
+  },
+  "type": "Feature",
+  "id": 44,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.187107682228106,
+      48.78021401464631
+    ]
+  },
+  "properties": {
+    "FID": 44,
+    "mvt_id": 510,
+    "rank": 26,
+    "name_de": "Staatsgalerie",
+    "name_int": "Staatsgalerie",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a3"
+  },
+  "type": "Feature",
+  "id": 45,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16734516620636,
+      48.81426455421994
+    ]
+  },
+  "properties": {
+    "FID": 45,
+    "mvt_id": 481,
+    "rank": 30,
+    "name_de": "Tiefbunker Feuerbach",
+    "name_int": "Tiefbunker Feuerbach",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a4"
+  },
+  "type": "Feature",
+  "id": 46,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.275427460670485,
+      48.80702244592702
+    ]
+  },
+  "properties": {
+    "FID": 46,
+    "mvt_id": 409,
+    "rank": 45,
+    "name_de": "Stadtmuseum",
+    "name_int": "Stadtmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a5"
+  },
+  "type": "Feature",
+  "id": 47,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.067035913467395,
+      48.82667968600813
+    ]
+  },
+  "properties": {
+    "FID": 47,
+    "mvt_id": 263,
+    "rank": 78,
+    "name_de": "Stadtmuseum",
+    "name_int": "Stadtmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a6"
+  },
+  "type": "Feature",
+  "id": 48,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.225066304206848,
+      48.80720262813845
+    ]
+  },
+  "properties": {
+    "FID": 48,
+    "mvt_id": 542,
+    "rank": 33,
+    "name_de": "Gottlieb-Daimler-Gedenkstätte",
+    "name_int": "Gottlieb-Daimler-Gedenkstätte",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a7"
+  },
+  "type": "Feature",
+  "id": 49,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.186893105506915,
+      48.78344125564818
+    ]
+  },
+  "properties": {
+    "FID": 49,
+    "mvt_id": 739,
+    "rank": 40,
+    "name_de": "Carl-Zeiss-Planetarium",
+    "name_int": "Carl-Zeiss-Planetarium",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a8"
+  },
+  "type": "Feature",
+  "id": 50,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.219895005226135,
+      48.81930515064609
+    ]
+  },
+  "properties": {
+    "FID": 50,
+    "mvt_id": 655,
+    "rank": 41,
+    "name_de": "Feuerwehrmuseum",
+    "name_int": "Feuerwehrmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4a9"
+  },
+  "type": "Feature",
+  "id": 51,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.18601334095003,
+      48.778814182943314
+    ]
+  },
+  "properties": {
+    "FID": 51,
+    "mvt_id": 850,
+    "rank": 48,
+    "name_de": "Haus der Geschichte Baden-Württemberg",
+    "name_int": "Haus der Geschichte Baden-Württemberg",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4aa"
+  },
+  "type": "Feature",
+  "id": 52,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.146128892898544,
+      48.72741759700004
+    ]
+  },
+  "properties": {
+    "FID": 52,
+    "mvt_id": 464,
+    "rank": 64,
+    "name_de": "Heimatmuseum",
+    "name_int": "Heimatmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4ab"
+  },
+  "type": "Feature",
+  "id": 53,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.170059561729431,
+      48.782762597881785
+    ]
+  },
+  "properties": {
+    "FID": 53,
+    "mvt_id": 852,
+    "rank": 54,
+    "name_de": "Linden-Museum",
+    "name_int": "Linden-Museum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4ac"
+  },
+  "type": "Feature",
+  "id": 54,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.305918812751766,
+      48.74358284280212
+    ]
+  },
+  "properties": {
+    "FID": 54,
+    "mvt_id": 544,
+    "rank": 101,
+    "name_de": "J. F. Schreiber-Museum",
+    "name_int": "J. F. Schreiber-Museum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4ad"
+  },
+  "type": "Feature",
+  "id": 55,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.308955073356625,
+      48.74207232542009
+    ]
+  },
+  "properties": {
+    "FID": 55,
+    "mvt_id": 569,
+    "rank": 125,
+    "name_de": "Stadtmuseum im Gelben Haus",
+    "name_int": "Stadtmuseum im Gelben Haus",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4ae"
+  },
+  "type": "Feature",
+  "id": 56,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.305564761161802,
+      48.74247206862932
+    ]
+  },
+  "properties": {
+    "FID": 56,
+    "mvt_id": 605,
+    "rank": 161,
+    "name_de": "J. F. Schreiber-Museum",
+    "name_int": "J. F. Schreiber-Museum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4af"
+  },
+  "type": "Feature",
+  "id": 57,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.171438217163088,
+      48.76424088936642
+    ]
+  },
+  "properties": {
+    "FID": 57,
+    "mvt_id": 1298,
+    "rank": 86,
+    "name_de": "Kunstraum34",
+    "name_int": "Kunstraum34",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b0"
+  },
+  "type": "Feature",
+  "id": 58,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.21277642250061,
+      48.8053654458264
+    ]
+  },
+  "properties": {
+    "FID": 58,
+    "mvt_id": 1172,
+    "rank": 137,
+    "name_de": "Stadtmuseum Bad Cannstatt",
+    "name_int": "Stadtmuseum Bad Cannstatt",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b1"
+  },
+  "type": "Feature",
+  "id": 59,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.181298017501833,
+      48.7797261989391
+    ]
+  },
+  "properties": {
+    "FID": 59,
+    "mvt_id": 1770,
+    "rank": 209,
+    "name_de": "Württembergischer Kunstverein",
+    "name_int": "Württembergischer Kunstverein",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b2"
+  },
+  "type": "Feature",
+  "id": 60,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.182762503623962,
+      48.783409443770374
+    ]
+  },
+  "properties": {
+    "FID": 60,
+    "mvt_id": 1849,
+    "rank": 237,
+    "name_de": "Turmforum",
+    "name_int": "Turmforum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b3"
+  },
+  "type": "Feature",
+  "id": 61,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17758047580719,
+      48.778326353631776
+    ]
+  },
+  "properties": {
+    "FID": 61,
+    "mvt_id": 1893,
+    "rank": 259,
+    "name_de": "Kunstmuseum",
+    "name_int": "Kunstmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b4"
+  },
+  "type": "Feature",
+  "id": 62,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.176990389823915,
+      48.77295284752113
+    ]
+  },
+  "properties": {
+    "FID": 62,
+    "mvt_id": 2482,
+    "rank": 303,
+    "name_de": "Hegelhaus",
+    "name_int": "Hegelhaus",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b5"
+  },
+  "type": "Feature",
+  "id": 63,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.177923798561098,
+      48.77696889059714
+    ]
+  },
+  "properties": {
+    "FID": 63,
+    "mvt_id": 2520,
+    "rank": 322,
+    "name_de": "Musikinstrumentenmuseum",
+    "name_int": "Musikinstrumentenmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b6"
+  },
+  "type": "Feature",
+  "id": 64,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.179238080978395,
+      48.77716685624269
+    ]
+  },
+  "properties": {
+    "FID": 64,
+    "mvt_id": 2574,
+    "rank": 349,
+    "name_de": "Kindermuseum Stuttgart im Junges Schloß",
+    "name_int": "Kindermuseum Stuttgart im Junges Schloß",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b7"
+  },
+  "type": "Feature",
+  "id": 65,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.17961359024048,
+      48.77708554901846
+    ]
+  },
+  "properties": {
+    "FID": 65,
+    "mvt_id": 2579,
+    "rank": 351,
+    "name_de": "Württembergisches Landesmuseum",
+    "name_int": "Württembergisches Landesmuseum",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b8"
+  },
+  "type": "Feature",
+  "id": 66,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.179946184158327,
+      48.77685930213623
+    ]
+  },
+  "properties": {
+    "FID": 66,
+    "mvt_id": 2590,
+    "rank": 357,
+    "name_de": "Stauffenberg Erinnerungsstätte",
+    "name_int": "Stauffenberg Erinnerungsstätte",
+    "subclass": "museum",
+    "class": "museum"
+  }
+},{
+  "_id": {
+    "$oid": "62d9f39655855c6cd6a4a4b9"
+  },
+  "type": "Feature",
+  "id": 67,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.181002974510195,
+      48.77752389945105
+    ]
+  },
+  "properties": {
+    "FID": 67,
+    "mvt_id": 2603,
+    "rank": 363,
+    "name_de": "Römisches Lapidarium",
+    "name_int": "Römisches Lapidarium",
+    "subclass": "museum",
+    "class": "museum"
+  }
+}]
